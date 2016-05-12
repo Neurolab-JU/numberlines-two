@@ -1499,7 +1499,11 @@ string ID = (logfile.subject() + ".txt");
 term.print(ID);
 output_file LogStream = new output_file;
 LogStream.open(ID, false);
-LogStream.print("Experiment started!\n" + "ID: " + ID + "\n===================\n" + "\n");
+#LogStream.print("Numberlines 2 " + "ID: " + ID + "\n");
+
+double clockStart;
+double clockStop;
+double reactionTime;
 
 #==================#
 # GLOBAL VARIABLES #
@@ -1643,18 +1647,20 @@ sub NavigationAnswer(int correctAngle) begin
 	end;
 
 	if ( resp == BUTTON_END ) then ok = true; end;
-
 	end;
 
-	LogStream.print(" User entered: " + string(d) + "\n");
+	LogStream.print("User entered:\t" + string(d) + "\t");
 
 	if d > correctAngle - (correctAngle * 0.1) && d < correctAngle + (correctAngle * 0.10) then
 		navigationCorrectCounter = navigationCorrectCounter + 1;
-		LogStream.print(" CORRECT\n");
+		LogStream.print("CORRECT\t");
 	else
-		LogStream.print(" INCORRECT\n");
+		LogStream.print("INCORRECT\t");
 	end;
-	LogStream.print("\n");
+	
+	clockStop = clock.time_double();
+	reactionTime = clockStop - clockStart;
+	LogStream.print("RT:\t" + string(reactionTime) + "\n");
 
 	# Show correct angle
 	pic40.set_3dpart_rot(1, -double(0) , d, 90.0 );
@@ -1686,19 +1692,22 @@ sub CalculationAnswer(int correctNumber) begin
 			int char_code = system_keyboard.get_keypress_code( count + 1);
 			string character = " ";
 		end;
-
-		LogStream.print(" User answer: " + entered + "\n");
+		LogStream.print("User answer:\t" + entered + "\t");
 		if entered == string (correctNumber) then
 			calculationCorrectCounter = calculationCorrectCounter + 1;
-			LogStream.print(" CORRECT\n");
+			LogStream.print("CORRECT\t");
 		else
-			LogStream.print(" INCORRECT\n");
+			LogStream.print("INCORRECT\t");
 		end;
-		LogStream.print("\n");
+		
 	# Present correct answer
 	fixationTrial.present();
 	string answer = string(correctNumber);
 	corNumText.set_caption(answer,true);
+	clockStop = clock.time_double();
+	reactionTime = clockStop - clockStart;
+	LogStream.print("RT:\t" + string(reactionTime) + "\n");
+	
 	#feedbackCorrectNumberTrial.present();
 end;
 
@@ -1721,7 +1730,7 @@ sub MainExperiment (array <int> randomizedArray[iterations]) begin
       pause.present();
     end;
 
-		LogStream.print("TRIAL N. " + string(i) + " - ");
+		LogStream.print("TRIAL N.\t" + string(i) + "\t");
 		int chooseCurrentTrial = randomizedArray[i];
 		#------------------------#
 		# Methods for navigation #
@@ -1733,13 +1742,14 @@ sub MainExperiment (array <int> randomizedArray[iterations]) begin
 			PresentNumber(2, "navigation", sequenceTrials[i]);
 			fixationTrial.present();
 			PresentNumber(3, "navigation", sequenceTrials[i]);
+			clockStart = clock.time_double();
 			# Calculate correct answer for navigation
-			LogStream.print("Navigation numbers: " + string(currentNumbers[1]) + ", " + string(currentNumbers[2]) + ", " + string(currentNumbers[3]) + "\n ");
+			LogStream.print("Navigation numbers:\t" + string(currentNumbers[1]) + "\t" + string(currentNumbers[2]) + "\t" + string(currentNumbers[3]) + "\t");
 			# Correct answer of navigation trial computation
 			int magnitude = abs(currentNumbers[1] - currentNumbers[2]);
 			int target = abs(currentNumbers[3] - currentNumbers[1]);
 			double correctCurrentNavigation = ((180 / magnitude) * target);
-			LogStream.print("Navigation correct: " + string(correctCurrentNavigation) + "\n");
+			LogStream.print("Navigation correct:\t" + string(correctCurrentNavigation) + "\t");
 			NavigationAnswer(int(correctCurrentNavigation));
 		#-------------------------#
 		# Methods for calculation #
@@ -1751,10 +1761,11 @@ sub MainExperiment (array <int> randomizedArray[iterations]) begin
 			PresentNumber(2, "calculation", sequenceTrials[i]);
 			fixationTrial.present();
 			PresentNumber(3, "calculation", sequenceTrials[i]);
+			clockStart = clock.time_double();
 			# Calculate correct answer for calculation
 			int correctCurrentCalculation = (currentNumbers[1] + currentNumbers[2]) / 2;
-			LogStream.print("Calculation numbers: " + string(currentNumbers[1]) + ", " + string(currentNumbers[2]) + ", " + string(currentNumbers[3]) + "\n ");
-			LogStream.print("Calculation correct: " + string(correctCurrentCalculation) + "\n");
+			LogStream.print("Calculation numbers:\t" + string(currentNumbers[1]) + "\t" + string(currentNumbers[2]) + "\t" + string(currentNumbers[3]) + "\t");
+			LogStream.print("Calculation correct:\t" + string(correctCurrentCalculation) + "\t");
 			CalculationAnswer(correctCurrentCalculation);
 		end;
 		# Intitate array to zeros

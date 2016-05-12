@@ -1,5 +1,5 @@
 <ver>18.3</ver>
-<efn>C:\Experiments\numberlines-2\NU2.exp</efn>
+<efn>C:\Experiments\2016_JANICKOVA_Numberlines_2\NU2.exp</efn>
 <author>Michael Tesar</author>
 <con>
 <pause>P</pause>
@@ -37,7 +37,7 @@
 <dsd></dsd>
 <dxv>8</dxv>
 <efs>
-<filename>C:\Experiments\numberlines-2\trialsAndMethods.sce</filename>
+<filename>C:\Experiments\2016_JANICKOVA_Numberlines_2\trialsAndMethods.sce</filename>
 </efs>
 <exclusive_mouse>1</exclusive_mouse>
 <exp_version></exp_version>
@@ -105,7 +105,7 @@
 <idt>0</idt>
 <ilc>0</ilc>
 <ip_chans></ip_chans>
-<lfd>C:\Experiments\numberlines-2\log</lfd>
+<lfd>C:\Experiments\2016_JANICKOVA_Numberlines_2\log</lfd>
 <lnb>2</lnb>
 <lno>3</lno>
 <log>
@@ -116,7 +116,7 @@
 <pien>0</pien>
 <set_def_file></set_def_file>
 <stimulus_list>0</stimulus_list>
-<subject_id>NU2-18</subject_id>
+<subject_id>Test_log_7</subject_id>
 <subject_id_pol>2</subject_id_pol>
 <video_list>0</video_list>
 <warnings>1</warnings>
@@ -247,11 +247,6 @@
 <name>Myš kompatibilní s technologií HID</name>
 </device>
 <device>
-<device_type>3</device_type>
-<dx_device_type>0</dx_device_type>
-<name>Zařízení klávesnice standardu HID 1</name>
-</device>
-<device>
 <abs_axis>
 <dead_zone>0</dead_zone>
 <max>1000</max>
@@ -294,100 +289,6 @@
 <name>Myš kompatibilní s technologií HID 1</name>
 </device>
 <device>
-<device_type>3</device_type>
-<dx_device_type>0</dx_device_type>
-<name>Zařízení klávesnice standardu HID 2</name>
-</device>
-<device>
-<device_type>3</device_type>
-<dx_device_type>0</dx_device_type>
-<name>Zařízení klávesnice standardu HID 3</name>
-</device>
-<device>
-<abs_axis>
-<dead_zone>0</dead_zone>
-<max>1000</max>
-<min>-1000</min>
-<name>X-axis</name>
-<saturation>1</saturation>
-</abs_axis>
-<abs_axis>
-<dead_zone>0</dead_zone>
-<max>1000</max>
-<min>-1000</min>
-<name>Y-axis</name>
-<saturation>1</saturation>
-</abs_axis>
-<axis>
-<max>1000</max>
-<min>-1000</min>
-<name>X-axis</name>
-<restricted>1</restricted>
-<scale>1</scale>
-</axis>
-<axis>
-<max>1000</max>
-<min>-1000</min>
-<name>Y-axis</name>
-<restricted>1</restricted>
-<scale>1</scale>
-</axis>
-<axis>
-<max>1000</max>
-<min>-1000</min>
-<name>Wheel</name>
-<restricted>1</restricted>
-<scale>1</scale>
-</axis>
-<device_type>2</device_type>
-<dx_device_type>0</dx_device_type>
-<max_raw_pos>65535</max_raw_pos>
-<min_raw_pos>0</min_raw_pos>
-<name>Myš kompatibilní s technologií HID 2</name>
-</device>
-<device>
-<abs_axis>
-<dead_zone>0</dead_zone>
-<max>1000</max>
-<min>-1000</min>
-<name>X-axis</name>
-<saturation>1</saturation>
-</abs_axis>
-<abs_axis>
-<dead_zone>0</dead_zone>
-<max>1000</max>
-<min>-1000</min>
-<name>Y-axis</name>
-<saturation>1</saturation>
-</abs_axis>
-<axis>
-<max>1000</max>
-<min>-1000</min>
-<name>X-axis</name>
-<restricted>1</restricted>
-<scale>1</scale>
-</axis>
-<axis>
-<max>1000</max>
-<min>-1000</min>
-<name>Y-axis</name>
-<restricted>1</restricted>
-<scale>1</scale>
-</axis>
-<axis>
-<max>1000</max>
-<min>-1000</min>
-<name>Wheel</name>
-<restricted>1</restricted>
-<scale>1</scale>
-</axis>
-<device_type>2</device_type>
-<dx_device_type>0</dx_device_type>
-<max_raw_pos>65535</max_raw_pos>
-<min_raw_pos>0</min_raw_pos>
-<name>Myš kompatibilní s technologií HID 3</name>
-</device>
-<device>
 <device_type>4</device_type>
 <dx_device_type>17</dx_device_type>
 <name>Micr</name>
@@ -401,16 +302,6 @@
 <device_type>4</device_type>
 <dx_device_type>17</dx_device_type>
 <name>Micr 2</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>USB Device</name>
-</device>
-<device>
-<device_type>4</device_type>
-<dx_device_type>17</dx_device_type>
-<name>USB Device 1</name>
 </device>
 <device>
 <axis>
@@ -596,7 +487,7 @@
 <offset>2147483676</offset>
 <offset>57</offset>
 </idv>
-<sfn>C:\Experiments\numberlines-2\trialsAndMethods.sce</sfn>
+<sfn>C:\Experiments\2016_JANICKOVA_Numberlines_2\trialsAndMethods.sce</sfn>
 </sce>
 <sct>
 <capture_device>
