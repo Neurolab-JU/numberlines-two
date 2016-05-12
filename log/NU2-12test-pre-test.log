@@ -1,0 +1,51 @@
+Scenario - 
+Logfile written - 04/06/2016 15:07:07
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+NU2-12test	1	Picture	Instructions	166	0	1	12000	1	0	next	other	0
+NU2-12test	1	Response	7	12043	11876	0
+NU2-12test	2	Picture	Instructions	12166	0	1	4833	1	0	next	other	0
+NU2-12test	2	Response	7	16843	4676	0
+NU2-12test	3	Picture	Experiment starts	16999	0	1	30166	1	0	next	other	0
+NU2-12test	3	Response	7	28043	11043	0
+NU2-12test	5	Picture	9	62331	0	1	20166	1	0	next	other	0
+NU2-12test	7	Picture	26	97664	0	1	20166	1	0	next	other	0
+NU2-12test	9	Picture	40	132996	0	1	41332	1	0	next	other	0
+NU2-12test	9	Text Input	12	174281	41285	0
+NU2-12test	9	Response	5	174281	41285	0
+NU2-12test	10	Response	6	175401	1072	0
+NU2-12test	11	Picture	Feedback calculation	189494	0	1	30166	1	0	30000	other	0
+NU2-12test	13	Picture	10	234993	0	1	20166	1	0	next	other	0
+NU2-12test	15	Picture	24	270326	0	1	20166	1	0	next	other	0
+NU2-12test	17	Picture	63	305658	0	1	20166	1	0	next	other	0
+NU2-12test	18	Response	3	374919	48928	0
+NU2-12test	18	Response	4	377638	51648	1
+NU2-12test	19	Response	3	379878	2056	0
+NU2-12test	19	Response	4	381478	3656	0
+NU2-12test	20	Response	3	389638	7982	0
+NU2-12test	20	Response	4	390438	8782	1
+NU2-12test	21	Response	1	393798	3143	0
+NU2-12test	21	Response	2	394438	3783	1
+NU2-12test	22	Response	3	418118	23463	0
+NU2-12test	22	Response	4	419718	25062	1
+NU2-12test	23	Response	3	423238	3250	0
+NU2-12test	23	Response	4	424198	4210	1
+NU2-12test	24	Response	5	463878	39390	0
+NU2-12test	24	Response	6	465477	40989	1
+NU2-12test	25	Picture	Navigation blank	465653	0	1	10166	1	0	next	other	0
+NU2-12test	28	Picture	8	521152	0	1	20166	1	0	next	other	0
+NU2-12test	30	Picture	27	556484	0	1	20166	1	0	next	other	0
+NU2-12test	32	Picture	64	591817	0	1	20166	1	0	next	other	0
+NU2-12test	33	Response	5	751714	139565	0
+NU2-12test	33	Response	6	752674	140524	1
+NU2-12test	34	Picture	Navigation blank	752979	0	1	10166	1	0	next	other	0
+NU2-12test	37	Picture	10	808477	0	1	20166	1	0	next	other	0
+NU2-12test	39	Picture	34	843810	0	1	20166	1	0	next	other	0
+NU2-12test	41	Picture	50	879142	0	1	50832	1	0	next	other	0
+NU2-12test	41	Text Input	8	929952	50810	0
+NU2-12test	41	Response	5	929952	50810	0
+NU2-12test	42	Response	6	930752	778	0
+NU2-12test	43	Picture	Feedback calculation	945140	0	1	30166	1	0	30000	other	0
+NU2-12test	45	Picture	11	990639	0	1	20166	1	0	next	other	0
+NU2-12test	46	Quit		1011711	906	NA

@@ -1,0 +1,1006 @@
+Experiment started!
+ID: NU2-17.txt
+===================
+
+TRIAL N. 1 - Navigation numbers: 10, 3, 4
+ Navigation correct: 150
+ User entered: 149
+ CORRECT
+
+TRIAL N. 2 - Navigation numbers: 8, 1, 6
+ Navigation correct: 50
+ User entered: 55
+ INCORRECT
+
+TRIAL N. 3 - Navigation numbers: 11, 15, 14
+ Navigation correct: 135
+ User entered: 125
+ CORRECT
+
+TRIAL N. 4 - Calculation numbers: 11, 15, 0
+ Calculation correct: 13
+ User answer: 13
+ CORRECT
+
+TRIAL N. 5 - Navigation numbers: 9, 16, 15
+ Navigation correct: 150
+ User entered: 151
+ CORRECT
+
+TRIAL N. 6 - Navigation numbers: 10, 17, 13
+ Navigation correct: 75
+ User entered: 76
+ CORRECT
+
+TRIAL N. 7 - Navigation numbers: 12, 8, 9
+ Navigation correct: 135
+ User entered: 123
+ CORRECT
+
+TRIAL N. 8 - Calculation numbers: 11, 15, 0
+ Calculation correct: 13
+ User answer: 13
+ CORRECT
+
+TRIAL N. 9 - Calculation numbers: 8, 2, 0
+ Calculation correct: 5
+ User answer: 5
+ CORRECT
+
+TRIAL N. 10 - Navigation numbers: 12, 16, 14
+ Navigation correct: 90
+ User entered: 90
+ CORRECT
+
+TRIAL N. 11 - Navigation numbers: 8, 15, 12
+ Navigation correct: 100
+ User entered: 104
+ CORRECT
+
+TRIAL N. 12 - Navigation numbers: 9, 2, 3
+ Navigation correct: 150
+ User entered: 158
+ CORRECT
+
+TRIAL N. 13 - Navigation numbers: 8, 15, 13
+ Navigation correct: 125
+ User entered: 141
+ INCORRECT
+
+TRIAL N. 14 - Navigation numbers: 10, 4, 5
+ Navigation correct: 150
+ User entered: 158
+ CORRECT
+
+TRIAL N. 15 - Calculation numbers: 9, 3, 0
+ Calculation correct: 6
+ User answer: 6
+ CORRECT
+
+TRIAL N. 16 - Navigation numbers: 11, 5, 7
+ Navigation correct: 120
+ User entered: 115
+ CORRECT
+
+TRIAL N. 17 - Calculation numbers: 12, 16, 0
+ Calculation correct: 14
+ User answer: 14
+ CORRECT
+
+TRIAL N. 18 - Calculation numbers: 12, 16, 0
+ Calculation correct: 14
+ User answer: 14
+ CORRECT
+
+TRIAL N. 19 - Navigation numbers: 11, 18, 12
+ Navigation correct: 25
+ User entered: 30
+ INCORRECT
+
+TRIAL N. 20 - Navigation numbers: 12, 5, 9
+ Navigation correct: 75
+ User entered: 75
+ CORRECT
+
+TRIAL N. 21 - Calculation numbers: 11, 5, 0
+ Calculation correct: 8
+ User answer: 8
+ CORRECT
+
+TRIAL N. 22 - Navigation numbers: 12, 17, 16
+ Navigation correct: 144
+ User entered: 131
+ CORRECT
+
+TRIAL N. 23 - Navigation numbers: 12, 5, 10
+ Navigation correct: 50
+ User entered: 35
+ INCORRECT
+
+TRIAL N. 24 - Calculation numbers: 10, 4, 0
+ Calculation correct: 7
+ User answer: 7
+ CORRECT
+
+TRIAL N. 25 - Navigation numbers: 9, 14, 10
+ Navigation correct: 36
+ User entered: 46
+ INCORRECT
+
+TRIAL N. 26 - Navigation numbers: 11, 5, 8
+ Navigation correct: 90
+ User entered: 90
+ CORRECT
+
+TRIAL N. 27 - Calculation numbers: 10, 6, 0
+ Calculation correct: 8
+ User answer: 8
+ CORRECT
+
+TRIAL N. 28 - Navigation numbers: 12, 6, 10
+ Navigation correct: 60
+ User entered: 71
+ INCORRECT
+
+TRIAL N. 29 - Calculation numbers: 13, 17, 0
+ Calculation correct: 15
+ User answer: 15
+ CORRECT
+
+TRIAL N. 30 - Calculation numbers: 11, 17, 0
+ Calculation correct: 14
+ User answer: 14
+ CORRECT
+
+TRIAL N. 31 - Navigation numbers: 12, 5, 9
+ Navigation correct: 75
+ User entered: 72
+ CORRECT
+
+TRIAL N. 32 - Calculation numbers: 9, 3, 0
+ Calculation correct: 6
+ User answer: 6
+ CORRECT
+
+TRIAL N. 33 - Navigation numbers: 8, 12, 10
+ Navigation correct: 90
+ User entered: 90
+ CORRECT
+
+TRIAL N. 34 - Navigation numbers: 12, 18, 15
+ Navigation correct: 90
+ User entered: 90
+ CORRECT
+
+TRIAL N. 35 - Navigation numbers: 9, 15, 14
+ Navigation correct: 150
+ User entered: 145
+ CORRECT
+
+TRIAL N. 36 - Calculation numbers: 13, 5, 0
+ Calculation correct: 9
+ User answer: 9
+ CORRECT
+
+TRIAL N. 37 - Navigation numbers: 10, 3, 7
+ Navigation correct: 75
+ User entered: 70
+ CORRECT
+
+TRIAL N. 38 - Calculation numbers: 11, 3, 0
+ Calculation correct: 7
+ User answer: 7
+ CORRECT
+
+TRIAL N. 39 - Calculation numbers: 12, 8, 0
+ Calculation correct: 10
+ User answer: 10
+ CORRECT
+
+TRIAL N. 40 - Calculation numbers: 9, 1, 0
+ Calculation correct: 5
+ User answer: 5
+ CORRECT
+
+TRIAL N. 41 - Navigation numbers: 8, 13, 11
+ Navigation correct: 108
+ User entered: 97
+ INCORRECT
+
+TRIAL N. 42 - Navigation numbers: 10, 6, 9
+ Navigation correct: 45
+ User entered: 104
+ INCORRECT
+
+TRIAL N. 43 - Calculation numbers: 13, 17, 0
+ Calculation correct: 15
+ User answer: 15
+ CORRECT
+
+TRIAL N. 44 - Navigation numbers: 8, 2, 6
+ Navigation correct: 60
+ User entered: 72
+ INCORRECT
+
+TRIAL N. 45 - Calculation numbers: 8, 14, 0
+ Calculation correct: 11
+ User answer: 11
+ CORRECT
+
+TRIAL N. 46 - Navigation numbers: 12, 19, 16
+ Navigation correct: 100
+ User entered: 103
+ CORRECT
+
+TRIAL N. 47 - Calculation numbers: 12, 6, 0
+ Calculation correct: 9
+ User answer: 9
+ CORRECT
+
+TRIAL N. 48 - Calculation numbers: 10, 14, 0
+ Calculation correct: 12
+ User answer: 12
+ CORRECT
+
+TRIAL N. 49 - Navigation numbers: 8, 12, 9
+ Navigation correct: 45
+ User entered: 57
+ INCORRECT
+
+TRIAL N. 50 - Navigation numbers: 10, 5, 6
+ Navigation correct: 144
+ User entered: 131
+ CORRECT
+
+TRIAL N. 51 - Calculation numbers: 9, 13, 0
+ Calculation correct: 11
+ User answer: 11
+ CORRECT
+
+TRIAL N. 52 - Calculation numbers: 10, 4, 0
+ Calculation correct: 7
+ User answer: 7
+ CORRECT
+
+TRIAL N. 53 - Navigation numbers: 10, 16, 13
+ Navigation correct: 90
+ User entered: 90
+ CORRECT
+
+TRIAL N. 54 - Calculation numbers: 10, 4, 0
+ Calculation correct: 7
+ User answer: 7
+ CORRECT
+
+TRIAL N. 55 - Calculation numbers: 12, 6, 0
+ Calculation correct: 9
+ User answer: 9
+ CORRECT
+
+TRIAL N. 56 - Navigation numbers: 11, 18, 15
+ Navigation correct: 100
+ User entered: 102
+ CORRECT
+
+TRIAL N. 57 - Calculation numbers: 10, 14, 0
+ Calculation correct: 12
+ User answer: 12
+ CORRECT
+
+TRIAL N. 58 - Calculation numbers: 13, 19, 0
+ Calculation correct: 16
+ User answer: 16
+ CORRECT
+
+TRIAL N. 59 - Calculation numbers: 11, 5, 0
+ Calculation correct: 8
+ User answer: 8
+ CORRECT
+
+TRIAL N. 60 - Navigation numbers: 10, 5, 8
+ Navigation correct: 72
+ User entered: 74
+ CORRECT
+
+TRIAL N. 61 - Navigation numbers: 9, 14, 12
+ Navigation correct: 108
+ User entered: 100
+ CORRECT
+
+TRIAL N. 62 - Navigation numbers: 10, 15, 12
+ Navigation correct: 72
+ User entered: 77
+ CORRECT
+
+TRIAL N. 63 - Calculation numbers: 10, 16, 0
+ Calculation correct: 13
+ User answer: 13
+ CORRECT
+
+TRIAL N. 64 - Navigation numbers: 11, 6, 7
+ Navigation correct: 144
+ User entered: 139
+ CORRECT
+
+TRIAL N. 65 - Navigation numbers: 11, 16, 15
+ Navigation correct: 144
+ User entered: 153
+ CORRECT
+
+TRIAL N. 66 - Navigation numbers: 11, 15, 13
+ Navigation correct: 90
+ User entered: 90
+ CORRECT
+
+TRIAL N. 67 - Navigation numbers: 11, 7, 8
+ Navigation correct: 135
+ User entered: 125
+ CORRECT
+
+TRIAL N. 68 - Calculation numbers: 13, 5, 0
+ Calculation correct: 9
+ User answer: 9
+ CORRECT
+
+TRIAL N. 69 - Navigation numbers: 8, 13, 11
+ Navigation correct: 108
+ User entered: 106
+ CORRECT
+
+TRIAL N. 70 - Navigation numbers: 9, 4, 5
+ Navigation correct: 144
+ User entered: 137
+ CORRECT
+
+TRIAL N. 71 - Calculation numbers: 12, 16, 0
+ Calculation correct: 14
+ User answer: 14
+ CORRECT
+
+TRIAL N. 72 - Navigation numbers: 8, 14, 13
+ Navigation correct: 150
+ User entered: 148
+ CORRECT
+
+TRIAL N. 73 - Navigation numbers: 9, 2, 3
+ Navigation correct: 150
+ User entered: 160
+ CORRECT
+
+TRIAL N. 74 - Navigation numbers: 9, 4, 5
+ Navigation correct: 144
+ User entered: 156
+ CORRECT
+
+TRIAL N. 75 - Calculation numbers: 9, 3, 0
+ Calculation correct: 6
+ User answer: 6
+ CORRECT
+
+TRIAL N. 76 - Calculation numbers: 12, 18, 0
+ Calculation correct: 15
+ User answer: 15
+ CORRECT
+
+TRIAL N. 77 - Navigation numbers: 10, 15, 11
+ Navigation correct: 36
+ User entered: 50
+ INCORRECT
+
+TRIAL N. 78 - Navigation numbers: 10, 4, 5
+ Navigation correct: 150
+ User entered: 147
+ CORRECT
+
+TRIAL N. 79 - Navigation numbers: 12, 17, 16
+ Navigation correct: 144
+ User entered: 161
+ INCORRECT
+
+TRIAL N. 80 - Calculation numbers: 11, 17, 0
+ Calculation correct: 14
+ User answer: 14
+ CORRECT
+
+TRIAL N. 81 - Calculation numbers: 8, 12, 0
+ Calculation correct: 10
+ User answer: 10
+ CORRECT
+
+TRIAL N. 82 - Navigation numbers: 11, 5, 9
+ Navigation correct: 60
+ User entered: 70
+ INCORRECT
+
+TRIAL N. 83 - Calculation numbers: 12, 8, 0
+ Calculation correct: 10
+ User answer: 10
+ CORRECT
+
+TRIAL N. 84 - Calculation numbers: 9, 15, 0
+ Calculation correct: 12
+ User answer: 12
+ CORRECT
+
+TRIAL N. 85 - Calculation numbers: 8, 12, 0
+ Calculation correct: 10
+ User answer: 10
+ CORRECT
+
+TRIAL N. 86 - Calculation numbers: 10, 4, 0
+ Calculation correct: 7
+ User answer: 7
+ CORRECT
+
+TRIAL N. 87 - Calculation numbers: 11, 5, 0
+ Calculation correct: 8
+ User answer: 8
+ CORRECT
+
+TRIAL N. 88 - Navigation numbers: 9, 2, 7
+ Navigation correct: 50
+ User entered: 61
+ INCORRECT
+
+TRIAL N. 89 - Navigation numbers: 9, 13, 10
+ Navigation correct: 45
+ User entered: 47
+ CORRECT
+
+TRIAL N. 90 - Navigation numbers: 11, 15, 12
+ Navigation correct: 45
+ User entered: 50
+ INCORRECT
+
+TRIAL N. 91 - Navigation numbers: 8, 1, 4
+ Navigation correct: 100
+ User entered: 103
+ CORRECT
+
+TRIAL N. 92 - Navigation numbers: 10, 17, 11
+ Navigation correct: 25
+ User entered: 30
+ INCORRECT
+
+TRIAL N. 93 - Navigation numbers: 12, 7, 11
+ Navigation correct: 36
+ User entered: 33
+ CORRECT
+
+TRIAL N. 94 - Navigation numbers: 12, 8, 9
+ Navigation correct: 135
+ User entered: 123
+ CORRECT
+
+TRIAL N. 95 - Calculation numbers: 9, 13, 0
+ Calculation correct: 11
+ User answer: 11
+ CORRECT
+
+TRIAL N. 96 - Calculation numbers: 12, 16, 0
+ Calculation correct: 14
+ User answer: 14
+ CORRECT
+
+TRIAL N. 97 - Calculation numbers: 11, 5, 0
+ Calculation correct: 8
+ User answer: 8
+ CORRECT
+
+TRIAL N. 98 - Navigation numbers: 12, 16, 15
+ Navigation correct: 135
+ User entered: 124
+ CORRECT
+
+TRIAL N. 99 - Calculation numbers: 8, 2, 0
+ Calculation correct: 5
+ User answer: 5
+ CORRECT
+
+TRIAL N. 100 - Navigation numbers: 8, 12, 9
+ Navigation correct: 45
+ User entered: 54
+ INCORRECT
+
+TRIAL N. 101 - Navigation numbers: 8, 12, 9
+ Navigation correct: 45
+ User entered: 56
+ INCORRECT
+
+TRIAL N. 102 - Navigation numbers: 12, 16, 13
+ Navigation correct: 45
+ User entered: 56
+ INCORRECT
+
+TRIAL N. 103 - Navigation numbers: 12, 7, 9
+ Navigation correct: 108
+ User entered: 110
+ CORRECT
+
+TRIAL N. 104 - Navigation numbers: 8, 13, 11
+ Navigation correct: 108
+ User entered: 104
+ CORRECT
+
+TRIAL N. 105 - Navigation numbers: 9, 4, 7
+ Navigation correct: 72
+ User entered: 76
+ CORRECT
+
+TRIAL N. 106 - Calculation numbers: 8, 4, 0
+ Calculation correct: 6
+ User answer: 6
+ CORRECT
+
+TRIAL N. 107 - Calculation numbers: 9, 15, 0
+ Calculation correct: 12
+ User answer: 12
+ CORRECT
+
+TRIAL N. 108 - Navigation numbers: 8, 1, 6
+ Navigation correct: 50
+ User entered: 67
+ INCORRECT
+
+TRIAL N. 109 - Calculation numbers: 12, 4, 0
+ Calculation correct: 8
+ User answer: 8
+ CORRECT
+
+TRIAL N. 110 - Navigation numbers: 12, 8, 11
+ Navigation correct: 45
+ User entered: 50
+ INCORRECT
+
+TRIAL N. 111 - Calculation numbers: 13, 7, 0
+ Calculation correct: 10
+ User answer: 10
+ CORRECT
+
+TRIAL N. 112 - Navigation numbers: 9, 5, 6
+ Navigation correct: 135
+ User entered: 132
+ CORRECT
+
+TRIAL N. 113 - Navigation numbers: 10, 5, 9
+ Navigation correct: 36
+ User entered: 53
+ INCORRECT
+
+TRIAL N. 114 - Calculation numbers: 8, 14, 0
+ Calculation correct: 11
+ User answer: 11
+ CORRECT
+
+TRIAL N. 115 - Calculation numbers: 11, 5, 0
+ Calculation correct: 8
+ User answer: 8
+ CORRECT
+
+TRIAL N. 116 - Navigation numbers: 8, 14, 13
+ Navigation correct: 150
+ User entered: 160
+ CORRECT
+
+TRIAL N. 117 - Calculation numbers: 13, 19, 0
+ Calculation correct: 16
+ User answer: 16
+ CORRECT
+
+TRIAL N. 118 - Calculation numbers: 10, 14, 0
+ Calculation correct: 12
+ User answer: 12
+ CORRECT
+
+TRIAL N. 119 - Calculation numbers: 11, 15, 0
+ Calculation correct: 13
+ User answer: 13
+ CORRECT
+
+TRIAL N. 120 - Calculation numbers: 9, 1, 0
+ Calculation correct: 5
+ User answer: 5
+ CORRECT
+
+TRIAL N. 121 - Navigation numbers: 8, 3, 6
+ Navigation correct: 72
+ User entered: 75
+ CORRECT
+
+TRIAL N. 122 - Navigation numbers: 12, 6, 10
+ Navigation correct: 60
+ User entered: 74
+ INCORRECT
+
+TRIAL N. 123 - Navigation numbers: 10, 16, 11
+ Navigation correct: 30
+ User entered: 37
+ INCORRECT
+
+TRIAL N. 124 - Calculation numbers: 10, 2, 0
+ Calculation correct: 6
+ User answer: 6
+ CORRECT
+
+TRIAL N. 125 - Calculation numbers: 12, 18, 0
+ Calculation correct: 15
+ User answer: 15
+ CORRECT
+
+TRIAL N. 126 - Navigation numbers: 9, 4, 6
+ Navigation correct: 108
+ User entered: 106
+ CORRECT
+
+TRIAL N. 127 - Calculation numbers: 12, 18, 0
+ Calculation correct: 15
+ User answer: 15
+ CORRECT
+
+TRIAL N. 128 - Calculation numbers: 13, 19, 0
+ Calculation correct: 16
+ User answer: 16
+ CORRECT
+
+TRIAL N. 129 - Calculation numbers: 8, 14, 0
+ Calculation correct: 11
+ User answer: 11
+ CORRECT
+
+TRIAL N. 130 - Calculation numbers: 9, 3, 0
+ Calculation correct: 6
+ User answer: 6
+ CORRECT
+
+TRIAL N. 131 - Calculation numbers: 12, 18, 0
+ Calculation correct: 15
+ User answer: 15
+ CORRECT
+
+TRIAL N. 132 - Navigation numbers: 8, 14, 9
+ Navigation correct: 30
+ User entered: 37
+ INCORRECT
+
+TRIAL N. 133 - Calculation numbers: 10, 2, 0
+ Calculation correct: 6
+ User answer: 6
+ CORRECT
+
+TRIAL N. 134 - Calculation numbers: 12, 18, 0
+ Calculation correct: 15
+ User answer: 15
+ CORRECT
+
+TRIAL N. 135 - Calculation numbers: 9, 13, 0
+ Calculation correct: 11
+ User answer: 11
+ CORRECT
+
+TRIAL N. 136 - Navigation numbers: 8, 15, 12
+ Navigation correct: 100
+ User entered: 105
+ CORRECT
+
+TRIAL N. 137 - Calculation numbers: 9, 1, 0
+ Calculation correct: 5
+ User answer: 5
+ CORRECT
+
+TRIAL N. 138 - Calculation numbers: 10, 16, 0
+ Calculation correct: 13
+ User answer: 13
+ CORRECT
+
+TRIAL N. 139 - Navigation numbers: 12, 19, 16
+ Navigation correct: 100
+ User entered: 107
+ CORRECT
+
+TRIAL N. 140 - Navigation numbers: 12, 18, 14
+ Navigation correct: 60
+ User entered: 75
+ INCORRECT
+
+TRIAL N. 141 - Navigation numbers: 10, 4, 9
+ Navigation correct: 30
+ User entered: 31
+ CORRECT
+
+TRIAL N. 142 - Calculation numbers: 11, 17, 0
+ Calculation correct: 14
+ User answer: 14
+ CORRECT
+
+TRIAL N. 143 - Calculation numbers: 9, 5, 0
+ Calculation correct: 7
+ User answer: 7
+ CORRECT
+
+TRIAL N. 144 - Calculation numbers: 9, 5, 0
+ Calculation correct: 7
+ User answer: 7
+ CORRECT
+
+TRIAL N. 145 - Calculation numbers: 10, 16, 0
+ Calculation correct: 13
+ User answer: 13
+ CORRECT
+
+TRIAL N. 146 - Navigation numbers: 8, 2, 7
+ Navigation correct: 30
+ User entered: 38
+ INCORRECT
+
+TRIAL N. 147 - Calculation numbers: 11, 3, 0
+ Calculation correct: 7
+ User answer: 7
+ CORRECT
+
+TRIAL N. 148 - Navigation numbers: 11, 16, 12
+ Navigation correct: 36
+ User entered: 41
+ INCORRECT
+
+TRIAL N. 149 - Navigation numbers: 9, 15, 13
+ Navigation correct: 120
+ User entered: 107
+ INCORRECT
+
+TRIAL N. 150 - Navigation numbers: 8, 13, 12
+ Navigation correct: 144
+ User entered: 147
+ CORRECT
+
+TRIAL N. 151 - Calculation numbers: 12, 18, 0
+ Calculation correct: 15
+ User answer: 15
+ CORRECT
+
+TRIAL N. 152 - Navigation numbers: 8, 13, 9
+ Navigation correct: 36
+ User entered: 40
+ INCORRECT
+
+TRIAL N. 153 - Calculation numbers: 8, 14, 0
+ Calculation correct: 11
+ User answer: 11
+ CORRECT
+
+TRIAL N. 154 - Navigation numbers: 12, 6, 8
+ Navigation correct: 120
+ User entered: 109
+ CORRECT
+
+TRIAL N. 155 - Navigation numbers: 11, 4, 5
+ Navigation correct: 150
+ User entered: 163
+ CORRECT
+
+TRIAL N. 156 - Calculation numbers: 10, 6, 0
+ Calculation correct: 8
+ User answer: 8
+ CORRECT
+
+TRIAL N. 157 - Calculation numbers: 10, 14, 0
+ Calculation correct: 12
+ User answer: 12
+ CORRECT
+
+TRIAL N. 158 - Navigation numbers: 9, 14, 10
+ Navigation correct: 36
+ User entered: 26
+ INCORRECT
+
+TRIAL N. 159 - Calculation numbers: 9, 15, 0
+ Calculation correct: 12
+ User answer: 12
+ CORRECT
+
+TRIAL N. 160 - Calculation numbers: 10, 4, 0
+ Calculation correct: 7
+ User answer: 7
+ CORRECT
+
+TRIAL N. 161 - Calculation numbers: 9, 15, 0
+ Calculation correct: 12
+ User answer: 12
+ CORRECT
+
+TRIAL N. 162 - Navigation numbers: 8, 15, 13
+ Navigation correct: 125
+ User entered: 120
+ CORRECT
+
+TRIAL N. 163 - Calculation numbers: 9, 13, 0
+ Calculation correct: 11
+ User answer: 11
+ CORRECT
+
+TRIAL N. 164 - Navigation numbers: 11, 4, 8
+ Navigation correct: 75
+ User entered: 72
+ CORRECT
+
+TRIAL N. 165 - Calculation numbers: 9, 15, 0
+ Calculation correct: 12
+ User answer: 12
+ CORRECT
+
+TRIAL N. 166 - Navigation numbers: 11, 6, 10
+ Navigation correct: 36
+ User entered: 47
+ INCORRECT
+
+TRIAL N. 167 - Navigation numbers: 11, 17, 14
+ Navigation correct: 90
+ User entered: 90
+ CORRECT
+
+TRIAL N. 168 - Navigation numbers: 9, 13, 10
+ Navigation correct: 45
+ User entered: 51
+ INCORRECT
+
+TRIAL N. 169 - Navigation numbers: 8, 2, 7
+ Navigation correct: 30
+ User entered: 35
+ INCORRECT
+
+TRIAL N. 170 - Calculation numbers: 12, 4, 0
+ Calculation correct: 8
+ User answer: 8
+ CORRECT
+
+TRIAL N. 171 - Navigation numbers: 10, 4, 7
+ Navigation correct: 90
+ User entered: 90
+ CORRECT
+
+TRIAL N. 172 - Calculation numbers: 9, 3, 0
+ Calculation correct: 6
+ User answer: 6
+ CORRECT
+
+TRIAL N. 173 - Calculation numbers: 9, 15, 0
+ Calculation correct: 12
+ User answer: 12
+ CORRECT
+
+TRIAL N. 174 - Navigation numbers: 10, 16, 15
+ Navigation correct: 150
+ User entered: 141
+ CORRECT
+
+TRIAL N. 175 - Navigation numbers: 11, 7, 9
+ Navigation correct: 90
+ User entered: 90
+ CORRECT
+
+TRIAL N. 176 - Navigation numbers: 12, 19, 16
+ Navigation correct: 100
+ User entered: 109
+ CORRECT
+
+TRIAL N. 177 - Calculation numbers: 10, 4, 0
+ Calculation correct: 7
+ User answer: 7
+ CORRECT
+
+TRIAL N. 178 - Calculation numbers: 9, 13, 0
+ Calculation correct: 11
+ User answer: 11
+ CORRECT
+
+TRIAL N. 179 - Calculation numbers: 12, 16, 0
+ Calculation correct: 14
+ User answer: 14
+ CORRECT
+
+TRIAL N. 180 - Calculation numbers: 8, 4, 0
+ Calculation correct: 6
+ User answer: 6
+ CORRECT
+
+TRIAL N. 181 - Navigation numbers: 9, 15, 12
+ Navigation correct: 90
+ User entered: 90
+ CORRECT
+
+TRIAL N. 182 - Calculation numbers: 10, 16, 0
+ Calculation correct: 13
+ User answer: 13
+ CORRECT
+
+TRIAL N. 183 - Calculation numbers: 11, 7, 0
+ Calculation correct: 9
+ User answer: 9
+ CORRECT
+
+TRIAL N. 184 - Calculation numbers: 10, 16, 0
+ Calculation correct: 13
+ User answer: 13
+ CORRECT
+
+TRIAL N. 185 - Calculation numbers: 12, 4, 0
+ Calculation correct: 8
+ User answer: 8
+ CORRECT
+
+TRIAL N. 186 - Calculation numbers: 10, 2, 0
+ Calculation correct: 6
+ User answer: 6
+ CORRECT
+
+TRIAL N. 187 - Calculation numbers: 13, 7, 0
+ Calculation correct: 10
+ User answer: 10
+ CORRECT
+
+TRIAL N. 188 - Navigation numbers: 10, 17, 11
+ Navigation correct: 25
+ User entered: 20
+ INCORRECT
+
+TRIAL N. 189 - Navigation numbers: 10, 14, 13
+ Navigation correct: 135
+ User entered: 121
+ INCORRECT
+
+TRIAL N. 190 - Navigation numbers: 10, 6, 8
+ Navigation correct: 90
+ User entered: 90
+ CORRECT
+
+TRIAL N. 191 - Calculation numbers: 10, 14, 0
+ Calculation correct: 12
+ User answer: 12
+ CORRECT
+
+TRIAL N. 192 - Navigation numbers: 11, 17, 15
+ Navigation correct: 120
+ User entered: 106
+ INCORRECT
+
+TRIAL N. 193 - Navigation numbers: 8, 4, 6
+ Navigation correct: 90
+ User entered: 90
+ CORRECT
+
+TRIAL N. 194 - Calculation numbers: 9, 15, 0
+ Calculation correct: 12
+ User answer: 12
+ CORRECT
+
+TRIAL N. 195 - Calculation numbers: 13, 5, 0
+ Calculation correct: 9
+ User answer: 9
+ CORRECT
+
+TRIAL N. 196 - Calculation numbers: 12, 4, 0
+ Calculation correct: 8
+ User answer: 8
+ CORRECT
+
+TRIAL N. 197 - Navigation numbers: 8, 1, 5
+ Navigation correct: 75
+ User entered: 81
+ CORRECT
+
+TRIAL N. 198 - Navigation numbers: 11, 6, 10
+ Navigation correct: 36
+ User entered: 45
+ INCORRECT
+
+TRIAL N. 199 - Calculation numbers: 8, 14, 0
+ Calculation correct: 11
+ User answer: 11
+ CORRECT
+
+TRIAL N. 200 - Navigation numbers: 12, 19, 18
+ Navigation correct: 150
+ User entered: 144
+ CORRECT
+
+NAVIGATION TOTAL CORRECT: 0%
+CALCULATION TOTAL CORRECT: 0%

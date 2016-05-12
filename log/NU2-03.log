@@ -1,0 +1,1499 @@
+Scenario - 
+Logfile written - 03/16/2016 14:06:28
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+NU2-01test	1	Picture	Instructions	146	0	188	61185	188	0	next	other	0
+NU2-01test	1	Response	0	61137	60991	1
+NU2-01test	2	Picture	Instructions	61331	0	1	127829	1	0	next	other	0
+NU2-01test	2	Response	0	189135	127804	1
+NU2-01test	4	Picture	Experiment starts	189161	0	1	30166	1	0	next	other	0
+NU2-01test	6	Picture	11	234493	0	1	20166	1	0	next	other	0
+NU2-01test	8	Picture	27	269825	0	1	20166	1	0	next	other	0
+NU2-01test	10	Picture	40	305157	0	1	45165	1	0	next	other	0
+NU2-01test	10	Text Input	14	350253	45096	0
+NU2-01test	10	Response	0	350253	45096	1
+NU2-01test	11	Response	100	351212	890	1
+NU2-01test	13	Picture	12	380655	0	1	20166	1	0	next	other	0
+NU2-01test	15	Picture	37	415987	0	1	20166	1	0	next	other	0
+NU2-01test	17	Picture	50	451319	0	1	109830	1	0	next	other	0
+NU2-01test	17	Text Input	8	561129	109810	0
+NU2-01test	17	Response	0	561129	109810	1
+NU2-01test	18	Response	100	562249	1100	1
+NU2-01test	20	Picture	11	591481	0	1	20166	1	0	next	other	0
+NU2-01test	22	Picture	34	626814	0	1	20166	1	0	next	other	0
+NU2-01test	24	Picture	50	662146	0	1	32666	1	0	next	other	0
+NU2-01test	24	Text Input	9	694727	32581	0
+NU2-01test	24	Response	0	694727	32581	1
+NU2-01test	25	Response	100	695847	1036	1
+NU2-01test	27	Picture	9	725144	0	1	20166	1	0	next	other	0
+NU2-01test	29	Picture	35	760476	0	1	20166	1	0	next	other	0
+NU2-01test	31	Picture	50	795808	0	1	87497	1	0	next	other	0
+NU2-01test	31	Text Input	6	883205	87396	0
+NU2-01test	31	Response	0	883205	87396	1
+NU2-01test	32	Response	100	884164	859	1
+NU2-01test	34	Picture	12	913638	0	1	20166	1	0	next	other	0
+NU2-01test	36	Picture	37	948970	0	1	20166	1	0	next	other	0
+NU2-01test	38	Picture	73	984303	0	1	20166	1	0	next	other	0
+NU2-01test	39	Response	0	1077442	72807	1
+NU2-01test	39	Response	0	1078401	73766	1
+NU2-01test	40	Response	0	1088642	10009	1
+NU2-01test	40	Response	0	1089601	10968	1
+NU2-01test	41	Response	0	1095841	6042	1
+NU2-01test	41	Response	0	1096641	6842	1
+NU2-01test	42	Response	0	1102401	5435	1
+NU2-01test	42	Response	0	1103201	6235	1
+NU2-01test	43	Response	0	1112801	9336	1
+NU2-01test	43	Response	100	1113601	10135	1
+NU2-01test	45	Picture	12	1128965	0	1	20166	1	0	next	other	0
+NU2-01test	47	Picture	25	1164297	0	1	20166	1	0	next	other	0
+NU2-01test	49	Picture	64	1199629	0	1	20166	1	0	next	other	0
+NU2-01test	50	Response	0	1228640	8678	1
+NU2-01test	50	Response	0	1235679	15717	1
+NU2-01test	51	Response	0	1238559	2598	1
+NU2-01test	51	Response	0	1239839	3878	1
+NU2-01test	52	Response	0	1240799	671	1
+NU2-01test	52	Response	0	1241919	1791	1
+NU2-01test	53	Response	0	1244639	2511	1
+NU2-01test	53	Response	0	1249119	6991	1
+NU2-01test	54	Response	0	1251199	1905	1
+NU2-01test	54	Response	0	1255359	6065	1
+NU2-01test	55	Response	0	1257599	1971	1
+NU2-01test	55	Response	0	1262559	6931	1
+NU2-01test	56	Response	0	1265439	2645	1
+NU2-01test	56	Response	0	1266239	3445	1
+NU2-01test	57	Response	0	1268319	1858	1
+NU2-01test	57	Response	100	1268799	2338	1
+NU2-01test	59	Picture	9	1284293	0	1	20166	1	0	next	other	0
+NU2-01test	61	Picture	24	1319625	0	1	20166	1	0	next	other	0
+NU2-01test	63	Picture	40	1354958	0	1	39165	1	0	next	other	0
+NU2-01test	63	Text Input	11	1394077	39119	0
+NU2-01test	63	Response	0	1394077	39119	1
+NU2-01test	64	Response	100	1394877	754	1
+NU2-01test	66	Picture	10	1424455	0	1	20166	1	0	next	other	0
+NU2-01test	68	Picture	24	1459788	0	1	20166	1	0	next	other	0
+NU2-01test	70	Picture	40	1495120	0	1	32166	1	0	next	other	0
+NU2-01test	70	Text Input	12	1527195	32075	0
+NU2-01test	70	Response	0	1527195	32075	1
+NU2-01test	71	Response	100	1528315	1029	1
+NU2-01test	73	Picture	9	1557618	0	1	20166	1	0	next	other	0
+NU2-01test	75	Picture	25	1592950	0	1	20166	1	0	next	other	0
+NU2-01test	77	Picture	40	1628282	0	1	28499	1	0	next	other	0
+NU2-01test	77	Text Input	11	1656633	28350	0
+NU2-01test	77	Response	0	1656633	28350	1
+NU2-01test	78	Response	100	1657593	811	1
+NU2-01test	80	Picture	8	1687114	0	1	20166	1	0	next	other	0
+NU2-01test	82	Picture	26	1722446	0	1	20166	1	0	next	other	0
+NU2-01test	84	Picture	65	1757778	0	1	20166	1	0	next	other	0
+NU2-01test	85	Response	0	1782871	4760	1
+NU2-01test	85	Response	0	1790711	12600	1
+NU2-01test	86	Response	0	1793911	2967	1
+NU2-01test	86	Response	0	1794871	3927	1
+NU2-01test	87	Response	0	1795671	560	1
+NU2-01test	87	Response	0	1796790	1680	1
+NU2-01test	88	Response	0	1799031	1920	1
+NU2-01test	88	Response	100	1800310	3200	1
+NU2-01test	90	Picture	8	1815777	0	1	20166	1	0	next	other	0
+NU2-01test	92	Picture	34	1851109	0	1	20166	1	0	next	other	0
+NU2-01test	94	Picture	73	1886441	0	1	20166	1	0	next	other	0
+NU2-01test	95	Response	0	1982548	75775	1
+NU2-01test	95	Response	0	1986388	79614	1
+NU2-01test	96	Response	0	2000468	13863	1
+NU2-01test	96	Response	0	2001908	15303	1
+NU2-01test	97	Response	0	2013267	11163	1
+NU2-01test	97	Response	0	2018707	16603	1
+NU2-01test	98	Response	0	2025267	6330	1
+NU2-01test	98	Response	0	2026867	7930	1
+NU2-01test	99	Response	0	2027987	884	1
+NU2-01test	99	Response	100	2029267	2164	1
+NU2-01test	101	Picture	9	2044603	0	1	20166	1	0	next	other	0
+NU2-01test	103	Picture	34	2079935	0	1	20166	1	0	next	other	0
+NU2-01test	105	Picture	50	2115267	0	1	106663	1	0	next	other	0
+NU2-01test	105	Text Input	7	2221904	106637	0
+NU2-01test	105	Response	0	2221904	106637	1
+NU2-01test	106	Response	100	2223184	1253	1
+NU2-01test	108	Picture	8	2252263	0	1	20166	1	0	next	other	0
+NU2-01test	110	Picture	35	2287595	0	1	20166	1	0	next	other	0
+NU2-01test	112	Picture	72	2322928	0	1	20166	1	0	next	other	0
+NU2-01test	113	Response	0	2369102	25842	1
+NU2-01test	113	Response	0	2370062	26802	1
+NU2-01test	114	Response	0	2373742	3483	1
+NU2-01test	114	Response	0	2374382	4122	1
+NU2-01test	115	Response	0	2377742	3149	1
+NU2-01test	115	Response	100	2379022	4429	1
+NU2-01test	117	Picture	10	2394425	0	1	20166	1	0	next	other	0
+NU2-01test	119	Picture	36	2429757	0	1	20166	1	0	next	other	0
+NU2-01test	121	Picture	71	2465090	0	1	20166	1	0	next	other	0
+NU2-01test	122	Response	0	2489421	3998	1
+NU2-01test	122	Response	0	2497420	11998	1
+NU2-01test	123	Response	0	2500300	2711	1
+NU2-01test	123	Response	100	2501580	3991	1
+NU2-01test	125	Picture	8	2516921	0	1	20166	1	0	next	other	0
+NU2-01test	127	Picture	24	2552254	0	1	20166	1	0	next	other	0
+NU2-01test	129	Picture	40	2587586	0	1	28832	1	0	next	other	0
+NU2-01test	129	Text Input	10	2616298	28712	0
+NU2-01test	129	Response	0	2616298	28712	1
+NU2-01test	130	Response	100	2617418	1000	1
+NU2-01test	132	Picture	12	2646751	0	1	20166	1	0	next	other	0
+NU2-01test	134	Picture	35	2682083	0	1	20166	1	0	next	other	0
+NU2-01test	136	Picture	50	2717415	0	1	38166	1	0	next	other	0
+NU2-01test	136	Text Input	9	2755496	38081	0
+NU2-01test	136	Response	0	2755496	38081	1
+NU2-01test	137	Response	100	2757256	1675	1
+NU2-01test	139	Picture	11	2785913	0	1	20166	1	0	next	other	0
+NU2-01test	141	Picture	37	2821245	0	1	20166	1	0	next	other	0
+NU2-01test	143	Picture	50	2856577	0	1	151495	1	0	next	other	0
+NU2-01test	143	Text Input	7	3007972	151395	0
+NU2-01test	143	Response	0	3007972	151395	1
+NU2-01test	144	Response	100	3009252	1180	1
+NU2-01test	146	Picture	9	3038405	0	1	20166	1	0	next	other	0
+NU2-01test	148	Picture	25	3073737	0	1	20166	1	0	next	other	0
+NU2-01test	150	Picture	63	3109070	0	1	20166	1	0	next	other	0
+NU2-01test	151	Response	0	3218210	88807	1
+NU2-01test	151	Response	0	3219649	90247	1
+NU2-01test	152	Response	0	3227009	7110	1
+NU2-01test	152	Response	100	3228289	8389	1
+NU2-01test	154	Picture	12	3243732	0	1	20166	1	0	next	other	0
+NU2-01test	156	Picture	27	3279064	0	1	20166	1	0	next	other	0
+NU2-01test	158	Picture	40	3314397	0	1	46332	1	0	next	other	0
+NU2-01test	158	Text Input	15	3360607	46210	0
+NU2-01test	158	Response	0	3360607	46210	1
+NU2-01test	159	Response	100	3361887	1159	1
+NU2-01test	161	Picture	9	3391061	0	1	20166	1	0	next	other	0
+NU2-01test	163	Picture	26	3426393	0	1	20166	1	0	next	other	0
+NU2-01test	165	Picture	40	3461725	0	1	34166	1	0	next	other	0
+NU2-01test	165	Text Input	12	3495805	34080	0
+NU2-01test	165	Response	0	3495805	34080	1
+NU2-01test	166	Response	100	3496925	1034	1
+NU2-01test	168	Picture	12	3526223	0	1	20166	1	0	next	other	0
+NU2-01test	170	Picture	35	3561555	0	1	20166	1	0	next	other	0
+NU2-01test	172	Picture	71	3596888	0	1	20166	1	0	next	other	0
+NU2-01test	173	Response	0	3622523	5303	1
+NU2-01test	173	Response	0	3627803	10583	1
+NU2-01test	174	Response	0	3631323	3270	1
+NU2-01test	174	Response	0	3632443	4390	1
+NU2-01test	175	Response	0	3633563	843	1
+NU2-01test	175	Response	0	3634523	1803	1
+NU2-01test	176	Response	0	3635483	763	1
+NU2-01test	176	Response	100	3636762	2042	1
+NU2-01test	178	Picture	12	3652219	0	1	20166	1	0	next	other	0
+NU2-01test	180	Picture	37	3687551	0	1	20166	1	0	next	other	0
+NU2-01test	182	Picture	50	3722884	0	1	61498	1	0	next	other	0
+NU2-01test	182	Text Input	8	3784281	61397	0
+NU2-01test	182	Response	0	3784281	61397	1
+NU2-01test	183	Response	100	3785241	859	1
+NU2-01test	185	Picture	10	3814714	0	1	20166	1	0	next	other	0
+NU2-01test	187	Picture	37	3850046	0	1	20166	1	0	next	other	0
+NU2-01test	189	Picture	74	3885379	0	1	20166	1	0	next	other	0
+NU2-01test	190	Response	0	3934839	29127	1
+NU2-01test	190	Response	0	3936278	30566	1
+NU2-01test	191	Response	0	3937878	1334	1
+NU2-01test	191	Response	100	3939158	2615	1
+NU2-01test	193	Picture	11	3954543	0	1	20166	1	0	next	other	0
+NU2-01test	195	Picture	34	3989875	0	1	20166	1	0	next	other	0
+NU2-01test	197	Picture	50	4025208	0	1	29832	1	0	next	other	0
+NU2-01test	197	Text Input	9	4054996	29789	0
+NU2-01test	197	Response	0	4054996	29789	1
+NU2-01test	198	Response	100	4056436	1396	1
+NU2-01test	200	Picture	11	4085372	0	1	20166	1	0	next	other	0
+NU2-01test	202	Picture	36	4120705	0	1	20166	1	0	next	other	0
+NU2-01test	204	Picture	73	4156037	0	1	20166	1	0	next	other	0
+NU2-01test	205	Response	0	4183635	7265	1
+NU2-01test	205	Response	100	4184755	8385	1
+NU2-01test	207	Picture	8	4200202	0	1	20166	1	0	next	other	0
+NU2-01test	209	Picture	36	4235534	0	1	20166	1	0	next	other	0
+NU2-01test	211	Picture	75	4270867	0	1	20166	1	0	next	other	0
+NU2-01test	212	Response	0	4314673	23474	1
+NU2-01test	212	Response	0	4318673	27473	1
+NU2-01test	213	Response	0	4328432	9567	1
+NU2-01test	213	Response	0	4329232	10367	1
+NU2-01test	214	Response	0	4334192	4661	1
+NU2-01test	214	Response	0	4335472	5941	1
+NU2-01test	215	Response	0	4339952	4254	1
+NU2-01test	215	Response	100	4341392	5694	1
+NU2-01test	217	Picture	12	4356864	0	1	20166	1	0	next	other	0
+NU2-01test	219	Picture	24	4392196	0	1	20166	1	0	next	other	0
+NU2-01test	221	Picture	61	4427528	0	1	20166	1	0	next	other	0
+NU2-01test	222	Response	0	4460271	12410	1
+NU2-01test	222	Response	0	4465070	17209	1
+NU2-01test	223	Response	0	4468270	2910	1
+NU2-01test	223	Response	0	4469390	4030	1
+NU2-01test	224	Response	0	4470350	657	1
+NU2-01test	224	Response	0	4470830	1136	1
+NU2-01test	225	Response	0	4474830	3803	1
+NU2-01test	225	Response	100	4476110	5083	1
+NU2-01test	227	Picture	11	4491526	0	1	20166	1	0	next	other	0
+NU2-01test	229	Picture	36	4526859	0	1	20166	1	0	next	other	0
+NU2-01test	231	Picture	50	4562191	0	1	38999	1	0	next	other	0
+NU2-01test	231	Text Input	3	4601068	38877	0
+NU2-01test	231	Response	0	4601068	38877	1
+NU2-01test	232	Response	100	4602988	1799	1
+NU2-01test	234	Picture	11	4631522	0	1	20166	1	0	next	other	0
+NU2-01test	236	Picture	26	4666854	0	1	20166	1	0	next	other	0
+NU2-01test	238	Picture	40	4702186	0	1	31332	1	0	next	other	0
+NU2-01test	238	Text Input	14	4733386	31200	0
+NU2-01test	238	Response	0	4733386	31200	1
+NU2-01test	239	Response	100	4734346	827	1
+NU2-01test	241	Picture	10	4763851	0	1	20166	1	0	next	other	0
+NU2-01test	243	Picture	36	4799183	0	1	20166	1	0	next	other	0
+NU2-01test	245	Picture	50	4834516	0	1	25832	1	0	next	other	0
+NU2-01test	245	Text Input	7	4860264	25749	0
+NU2-01test	245	Response	0	4860264	25749	1
+NU2-01test	246	Response	100	4861224	876	1
+NU2-01test	248	Picture	8	4890680	0	1	20166	1	0	next	other	0
+NU2-01test	250	Picture	24	4926013	0	1	20166	1	0	next	other	0
+NU2-01test	252	Picture	61	4961345	0	1	20166	1	0	next	other	0
+NU2-01test	253	Response	0	4993063	11385	1
+NU2-01test	253	Response	0	4994022	12344	1
+NU2-01test	254	Response	0	4997862	3519	1
+NU2-01test	254	Response	0	4998822	4478	1
+NU2-01test	255	Response	0	5000102	1092	1
+NU2-01test	255	Response	0	5000742	1732	1
+NU2-01test	256	Response	0	5020902	19892	1
+NU2-01test	256	Response	100	5021862	20852	1
+NU2-01test	258	Picture	9	5037343	0	1	20166	1	0	next	other	0
+NU2-01test	260	Picture	25	5072675	0	1	20166	1	0	next	other	0
+NU2-01test	262	Picture	40	5108007	0	1	33832	1	0	next	other	0
+NU2-01test	262	Text Input	11	5141700	33693	0
+NU2-01test	262	Response	0	5141700	33693	1
+NU2-01test	263	Response	100	5142660	821	1
+NU2-01test	265	Picture	10	5172172	0	1	20166	1	0	next	other	0
+NU2-01test	267	Picture	36	5207504	0	1	20166	1	0	next	other	0
+NU2-01test	269	Picture	50	5242836	0	1	82997	1	0	next	other	0
+NU2-01test	269	Text Input	7	5325697	82861	0
+NU2-01test	269	Response	0	5325697	82861	1
+NU2-01test	270	Response	100	5326977	1144	1
+NU2-01test	272	Picture	13	5356166	0	1	20166	1	0	next	other	0
+NU2-01test	274	Picture	37	5391498	0	1	20166	1	0	next	other	0
+NU2-01test	276	Picture	50	5426830	0	1	33832	1	0	next	other	0
+NU2-01test	276	Text Input	9	5460575	33745	0
+NU2-01test	276	Response	0	5460575	33745	1
+NU2-01test	277	Response	100	5461215	553	1
+NU2-01test	279	Picture	12	5490995	0	1	20166	1	0	next	other	0
+NU2-01test	281	Picture	37	5526327	0	1	20166	1	0	next	other	0
+NU2-01test	283	Picture	50	5561659	0	1	31666	1	0	next	other	0
+NU2-01test	283	Text Input	8	5593213	31554	0
+NU2-01test	283	Response	0	5593213	31554	1
+NU2-01test	284	Response	100	5594333	1008	1
+NU2-01test	286	Picture	12	5623657	0	1	20166	1	0	next	other	0
+NU2-01test	288	Picture	26	5658990	0	1	20166	1	0	next	other	0
+NU2-01test	290	Picture	40	5694322	0	1	47165	1	0	next	other	0
+NU2-01test	290	Text Input	15	5741371	47049	0
+NU2-01test	290	Response	0	5741371	47049	1
+NU2-01test	291	Response	100	5742651	1164	1
+NU2-01test	293	Picture	11	5771820	0	1	20166	1	0	next	other	0
+NU2-01test	295	Picture	24	5807152	0	1	20166	1	0	next	other	0
+NU2-01test	297	Picture	40	5842484	0	1	27666	1	0	next	other	0
+NU2-01test	297	Text Input	13	5870009	27525	0
+NU2-01test	297	Response	0	5870009	27525	1
+NU2-01test	298	Response	100	5871449	1299	1
+NU2-01test	300	Picture	12	5900482	0	1	20166	1	0	next	other	0
+NU2-01test	302	Picture	36	5935814	0	1	20166	1	0	next	other	0
+NU2-01test	304	Picture	73	5971147	0	1	20166	1	0	next	other	0
+NU2-01test	305	Response	0	6027607	36128	1
+NU2-01test	305	Response	100	6029046	37567	1
+NU2-01test	307	Picture	12	6044478	0	1	20166	1	0	next	other	0
+NU2-01test	309	Picture	37	6079810	0	1	20166	1	0	next	other	0
+NU2-01test	311	Picture	73	6115142	0	1	20166	1	0	next	other	0
+NU2-01test	312	Response	0	6184725	49250	1
+NU2-01test	312	Response	0	6185524	50049	1
+NU2-01test	313	Response	0	6190164	4358	1
+NU2-01test	313	Response	0	6190644	4838	1
+NU2-01test	314	Response	0	6192404	1431	1
+NU2-01test	314	Response	100	6193844	2871	1
+NU2-01test	316	Picture	12	6209306	0	1	20166	1	0	next	other	0
+NU2-01test	318	Picture	37	6244638	0	1	20166	1	0	next	other	0
+NU2-01test	320	Picture	72	6279970	0	1	20166	1	0	next	other	0
+NU2-01test	321	Response	0	6332562	32259	1
+NU2-01test	321	Response	0	6337042	36739	1
+NU2-01test	322	Response	0	6340882	3580	1
+NU2-01test	322	Response	0	6341682	4380	1
+NU2-01test	323	Response	0	6347922	5953	1
+NU2-01test	323	Response	100	6349362	7394	1
+NU2-01test	325	Picture	9	6364801	0	1	20166	1	0	next	other	0
+NU2-01test	327	Picture	37	6400133	0	1	20166	1	0	next	other	0
+NU2-01test	329	Picture	76	6435465	0	1	20166	1	0	next	other	0
+NU2-01test	330	Response	0	6459921	4123	1
+NU2-01test	330	Response	0	6464880	9082	1
+NU2-01test	331	Response	0	6469200	4069	1
+NU2-01test	331	Response	0	6472240	7109	1
+NU2-01test	332	Response	0	6476400	3936	1
+NU2-01test	332	Response	100	6478000	5536	1
+NU2-01test	334	Picture	9	6493464	0	1	20166	1	0	next	other	0
+NU2-01test	336	Picture	26	6528796	0	1	20166	1	0	next	other	0
+NU2-01test	338	Picture	61	6564128	0	1	20166	1	0	next	other	0
+NU2-01test	339	Response	0	6625198	40737	1
+NU2-01test	339	Response	0	6629998	45537	1
+NU2-01test	340	Response	0	6633677	3385	1
+NU2-01test	340	Response	0	6634957	4665	1
+NU2-01test	341	Response	0	6635437	312	1
+NU2-01test	341	Response	100	6636557	1432	1
+NU2-01test	343	Picture	11	6651959	0	1	20166	1	0	next	other	0
+NU2-01test	345	Picture	37	6687291	0	1	20166	1	0	next	other	0
+NU2-01test	347	Picture	50	6722623	0	1	57831	1	0	next	other	0
+NU2-01test	347	Text Input	7	6780395	57772	0
+NU2-01test	347	Response	0	6780395	57772	1
+NU2-01test	348	Response	100	6781835	1381	1
+NU2-01test	350	Picture	12	6810787	0	1	20166	1	0	next	other	0
+NU2-01test	352	Picture	37	6846119	0	1	20166	1	0	next	other	0
+NU2-01test	354	Picture	50	6881451	0	1	26833	1	0	next	other	0
+NU2-01test	354	Text Input	8	6908233	26782	0
+NU2-01test	354	Response	0	6908233	26782	1
+NU2-01test	355	Response	100	6909673	1389	1
+NU2-01test	357	Picture	12	6938616	0	1	20166	1	0	next	other	0
+NU2-01test	359	Picture	34	6973948	0	1	20166	1	0	next	other	0
+NU2-01test	361	Picture	72	7009281	0	1	20166	1	0	next	other	0
+NU2-01test	362	Response	0	7032872	3259	1
+NU2-01test	362	Response	100	7034471	4858	1
+NU2-01test	364	Picture	10	7049946	0	1	20166	1	0	next	other	0
+NU2-01test	366	Picture	25	7085278	0	1	20166	1	0	next	other	0
+NU2-01test	368	Picture	40	7120611	0	1	29166	1	0	next	other	0
+NU2-01test	368	Text Input	12	7149670	29059	0
+NU2-01test	368	Response	0	7149670	29059	1
+NU2-01test	369	Response	100	7151590	1813	1
+NU2-01test	371	Picture	9	7180109	0	1	20166	1	0	next	other	0
+NU2-01test	373	Picture	34	7215441	0	1	20166	1	0	next	other	0
+NU2-01test	375	Picture	50	7250773	0	1	26333	1	0	next	other	0
+NU2-01test	375	Text Input	7	7277028	26255	0
+NU2-01test	375	Response	0	7277028	26255	1
+NU2-01test	376	Response	100	7278628	1522	1
+NU2-01test	378	Picture	9	7307438	0	1	20166	1	0	next	other	0
+NU2-01test	380	Picture	37	7342770	0	1	20166	1	0	next	other	0
+NU2-01test	382	Picture	50	7378102	0	1	26999	1	0	next	other	0
+NU2-01test	382	Text Input	5	7405026	26923	0
+NU2-01test	382	Response	0	7405026	26923	1
+NU2-01test	383	Response	100	7406786	1684	1
+NU2-01test	385	Picture	9	7435434	0	1	20166	1	0	next	other	0
+NU2-01test	387	Picture	37	7470766	0	1	20166	1	0	next	other	0
+NU2-01test	389	Picture	50	7506098	0	1	43665	1	0	next	other	0
+NU2-01test	389	Text Input	5	7549663	43565	0
+NU2-01test	389	Response	0	7549663	43565	1
+NU2-01test	390	Response	100	7551264	1500	1
+NU2-01test	392	Picture	13	7580096	0	1	20166	1	0	next	other	0
+NU2-01test	394	Picture	35	7615428	0	1	20166	1	0	next	other	0
+NU2-01test	396	Picture	50	7650761	0	1	30332	1	0	next	other	0
+NU2-01test	396	Text Input	10	7681022	30261	0
+NU2-01test	396	Response	0	7681022	30261	1
+NU2-01test	397	Response	100	7682622	1529	1
+NU2-01test	399	Picture	9	7711425	0	1	20166	1	0	next	other	0
+NU2-01test	401	Picture	37	7746758	0	1	20166	1	0	next	other	0
+NU2-01test	403	Picture	50	7782090	0	1	26332	1	0	next	other	0
+NU2-01test	403	Text Input	5	7808380	26290	0
+NU2-01test	403	Response	0	7808380	26290	1
+NU2-01test	404	Response	100	7809660	1237	1
+NU2-01test	406	Picture	8	7838755	0	1	20166	1	0	next	other	0
+NU2-01test	408	Picture	36	7874087	0	1	20166	1	0	next	other	0
+NU2-01test	410	Picture	71	7909419	0	1	20166	1	0	next	other	0
+NU2-01test	411	Response	0	7936858	7106	1
+NU2-01test	411	Response	0	7938938	9186	1
+NU2-01test	412	Response	0	7940858	1606	1
+NU2-01test	412	Response	0	7941818	2566	1
+NU2-01test	413	Response	0	7942937	853	1
+NU2-01test	413	Response	100	7944218	2133	1
+NU2-01test	415	Picture	9	7959584	0	1	20166	1	0	next	other	0
+NU2-01test	417	Picture	35	7994916	0	1	20166	1	0	next	other	0
+NU2-01test	419	Picture	50	8030249	0	1	118496	1	0	next	other	0
+NU2-01test	419	Text Input	6	8148694	118446	0
+NU2-01test	419	Response	0	8148694	118446	1
+NU2-01test	420	Response	100	8150455	1710	1
+NU2-01test	422	Picture	9	8179077	0	1	20166	1	0	next	other	0
+NU2-01test	424	Picture	27	8214410	0	1	20166	1	0	next	other	0
+NU2-01test	426	Picture	40	8249742	0	1	28832	1	0	next	other	0
+NU2-01test	426	Text Input	12	8278452	28711	0
+NU2-01test	426	Response	0	8278452	28711	1
+NU2-01test	427	Response	100	8280052	1478	1
+NU2-01test	429	Picture	8	8308907	0	1	20166	1	0	next	other	0
+NU2-01test	431	Picture	24	8344239	0	1	20166	1	0	next	other	0
+NU2-01test	433	Picture	40	8379571	0	1	29666	1	0	next	other	0
+NU2-01test	433	Text Input	10	8409170	29599	0
+NU2-01test	433	Response	0	8409170	29599	1
+NU2-01test	434	Response	100	8410930	1693	1
+NU2-01test	436	Picture	8	8439569	0	1	20166	1	0	next	other	0
+NU2-01test	438	Picture	36	8474901	0	1	20166	1	0	next	other	0
+NU2-01test	440	Picture	50	8510234	0	1	33999	1	0	next	other	0
+NU2-01test	440	Text Input	5	8544209	33975	0
+NU2-01test	440	Response	0	8544209	33975	1
+NU2-01test	441	Response	100	8545168	936	1
+NU2-01test	443	Picture	10	8574565	0	1	20166	1	0	next	other	0
+NU2-01test	445	Picture	37	8609897	0	1	20166	1	0	next	other	0
+NU2-01test	447	Picture	76	8645229	0	1	20166	1	0	next	other	0
+NU2-01test	448	Response	0	8675567	10005	1
+NU2-01test	448	Response	0	8681646	16084	1
+NU2-01test	449	Response	0	8683886	1991	1
+NU2-01test	449	Response	0	8685006	3111	1
+NU2-01test	450	Response	0	8696686	11458	1
+NU2-01test	450	Response	100	8698126	12898	1
+NU2-01test	452	Picture	10	8713561	0	1	20166	1	0	next	other	0
+NU2-01test	454	Picture	25	8748893	0	1	20166	1	0	next	other	0
+NU2-01test	456	Picture	40	8784225	0	1	28666	1	0	next	other	0
+NU2-01test	456	Text Input	12	8812844	28619	0
+NU2-01test	456	Response	0	8812844	28619	1
+NU2-01test	457	Response	100	8813804	914	1
+NU2-01test	459	Picture	10	8843223	0	1	20166	1	0	next	other	0
+NU2-01test	461	Picture	34	8878555	0	1	20166	1	0	next	other	0
+NU2-01test	463	Picture	71	8913888	0	1	20166	1	0	next	other	0
+NU2-01test	464	Response	0	8937963	3743	1
+NU2-01test	464	Response	0	8941643	7422	1
+NU2-01test	465	Response	0	8945962	4076	1
+NU2-01test	465	Response	0	8946602	4716	1
+NU2-01test	466	Response	0	8948842	1956	1
+NU2-01test	466	Response	100	8949802	2916	1
+NU2-01test	468	Picture	13	8965219	0	1	20166	1	0	next	other	0
+NU2-01test	470	Picture	37	9000552	0	1	20166	1	0	next	other	0
+NU2-01test	472	Picture	50	9035884	0	1	98997	1	0	next	other	0
+NU2-01test	472	Text Input	9	9134760	98876	0
+NU2-01test	472	Response	0	9134760	98876	1
+NU2-01test	473	Response	100	9135880	999	1
+NU2-01test	475	Picture	12	9165213	0	1	20166	1	0	next	other	0
+NU2-01test	477	Picture	25	9200545	0	1	20166	1	0	next	other	0
+NU2-01test	479	Picture	62	9235878	0	1	20166	1	0	next	other	0
+NU2-01test	480	Response	0	9264998	8788	1
+NU2-01test	480	Response	0	9269478	13268	1
+NU2-01test	481	Response	0	9284518	14808	1
+NU2-01test	481	Response	0	9288997	19288	1
+NU2-01test	482	Response	0	9311077	21868	1
+NU2-01test	482	Response	0	9312357	23148	1
+NU2-01test	483	Response	0	9313477	935	1
+NU2-01test	483	Response	0	9314437	1895	1
+NU2-01test	484	Response	0	9315557	848	1
+NU2-01test	484	Response	0	9316197	1488	1
+NU2-01test	485	Response	0	9317797	1422	1
+NU2-01test	485	Response	100	9319077	2702	1
+NU2-01test	487	Picture	9	9334541	0	1	20166	1	0	next	other	0
+NU2-01test	489	Picture	35	9369873	0	1	20166	1	0	next	other	0
+NU2-01test	491	Picture	73	9405206	0	1	20166	1	0	next	other	0
+NU2-01test	492	Response	0	9495075	69536	1
+NU2-01test	492	Response	0	9496194	70655	1
+NU2-01test	493	Response	0	9500034	3665	1
+NU2-01test	493	Response	0	9500994	4625	1
+NU2-01test	494	Response	0	9503074	1871	1
+NU2-01test	494	Response	100	9504514	3311	1
+NU2-01test	496	Picture	11	9519869	0	1	20166	1	0	next	other	0
+NU2-01test	498	Picture	34	9555201	0	1	20166	1	0	next	other	0
+NU2-01test	500	Picture	71	9590533	0	1	20166	1	0	next	other	0
+NU2-01test	501	Response	0	9616833	5967	1
+NU2-01test	501	Response	0	9621633	10767	1
+NU2-01test	502	Response	0	9636992	15127	1
+NU2-01test	502	Response	0	9637792	15926	1
+NU2-01test	503	Response	0	9639232	1200	1
+NU2-01test	503	Response	100	9640832	2800	1
+NU2-01test	505	Picture	12	9656198	0	1	20166	1	0	next	other	0
+NU2-01test	507	Picture	26	9691530	0	1	20166	1	0	next	other	0
+NU2-01test	509	Picture	40	9726862	0	1	38999	1	0	next	other	0
+NU2-01test	509	Text Input	15	9765790	38928	0
+NU2-01test	509	Response	0	9765790	38928	1
+NU2-01test	510	Response	100	9766910	1049	1
+NU2-01test	512	Picture	8	9796193	0	1	20166	1	0	next	other	0
+NU2-01test	514	Picture	26	9831526	0	1	20166	1	0	next	other	0
+NU2-01test	516	Picture	64	9866858	0	1	20166	1	0	next	other	0
+NU2-01test	517	Response	0	9949788	62597	1
+NU2-01test	517	Response	0	9953307	66117	1
+NU2-01test	518	Response	0	9983387	29865	1
+NU2-01test	518	Response	0	9984347	30825	1
+NU2-01test	519	Response	0	9986107	1586	1
+NU2-01test	519	Response	0	9986907	2386	1
+NU2-01test	520	Response	0	9987707	519	1
+NU2-01test	520	Response	100	9988827	1639	1
+NU2-01test	522	Picture	12	10004187	0	1	20166	1	0	next	other	0
+NU2-01test	524	Picture	37	10039519	0	1	20166	1	0	next	other	0
+NU2-01test	526	Picture	71	10074851	0	1	20166	1	0	next	other	0
+NU2-01test	527	Response	0	10101785	6601	1
+NU2-01test	527	Response	0	10107225	12041	1
+NU2-01test	528	Response	0	10113945	6428	1
+NU2-01test	528	Response	100	10115545	8028	1
+NU2-01test	530	Picture	8	10131016	0	1	20166	1	0	next	other	0
+NU2-01test	532	Picture	36	10166348	0	1	20166	1	0	next	other	0
+NU2-01test	534	Picture	74	10201681	0	1	20166	1	0	next	other	0
+NU2-01test	535	Response	0	10245463	23450	1
+NU2-01test	535	Response	0	10251223	29209	1
+NU2-01test	536	Response	0	10256183	4670	1
+NU2-01test	536	Response	0	10257303	5790	1
+NU2-01test	537	Response	0	10260822	3310	1
+NU2-01test	537	Response	100	10261623	4110	1
+NU2-01test	539	Picture	9	10277012	0	1	20166	1	0	next	other	0
+NU2-01test	541	Picture	34	10312344	0	1	20166	1	0	next	other	0
+NU2-01test	543	Picture	73	10347676	0	1	20166	1	0	next	other	0
+NU2-01test	544	Response	0	10397301	29292	1
+NU2-01test	544	Response	0	10401140	33132	1
+NU2-01test	545	Response	0	10406580	5239	1
+NU2-01test	545	Response	100	10408340	6999	1
+NU2-01test	547	Picture	10	10423674	0	1	20166	1	0	next	other	0
+NU2-01test	549	Picture	26	10459006	0	1	20166	1	0	next	other	0
+NU2-01test	551	Picture	40	10494338	0	1	28332	1	0	next	other	0
+NU2-01test	551	Text Input	16	10522578	28240	0
+NU2-01test	551	Response	0	10522578	28240	1
+NU2-01test	552	Response	100	10524659	1988	1
+NU2-01test	554	Picture	12	10553003	0	1	20166	1	0	next	other	0
+NU2-01test	556	Picture	27	10588335	0	1	20166	1	0	next	other	0
+NU2-01test	558	Picture	40	10623667	0	1	40832	1	0	next	other	0
+NU2-01test	558	Text Input	15	10664337	40669	0
+NU2-01test	558	Response	0	10664337	40669	1
+NU2-01test	559	Response	100	10665616	1117	1
+NU2-01test	561	Picture	10	10694832	0	1	20166	1	0	next	other	0
+NU2-01test	563	Picture	25	10730164	0	1	20166	1	0	next	other	0
+NU2-01test	565	Picture	62	10765496	0	1	20166	1	0	next	other	0
+NU2-01test	566	Response	0	10829615	43785	1
+NU2-01test	566	Response	0	10831374	45545	1
+NU2-01test	567	Response	0	10852494	20833	1
+NU2-01test	567	Response	100	10853294	21633	1
+NU2-01test	569	Picture	11	10868660	0	1	20166	1	0	next	other	0
+NU2-01test	571	Picture	36	10903992	0	1	20166	1	0	next	other	0
+NU2-01test	573	Picture	50	10939324	0	1	31999	1	0	next	other	0
+NU2-01test	573	Text Input	8	10971212	31888	0
+NU2-01test	573	Response	0	10971212	31888	1
+NU2-01test	574	Response	100	10972332	1009	1
+NU2-01test	576	Picture	9	11001656	0	1	20166	1	0	next	other	0
+NU2-01test	578	Picture	25	11036988	0	1	20166	1	0	next	other	0
+NU2-01test	580	Picture	62	11072320	0	1	20166	1	0	next	other	0
+NU2-01test	581	Response	0	11115690	23037	1
+NU2-01test	581	Response	0	11118090	25437	1
+NU2-01test	582	Response	0	11132010	13691	1
+NU2-01test	582	Response	0	11136009	17691	1
+NU2-01test	583	Response	0	11141129	4811	1
+NU2-01test	583	Response	0	11142089	5771	1
+NU2-01test	584	Response	0	11143529	1211	1
+NU2-01test	584	Response	100	11145289	2971	1
+NU2-01test	586	Picture	12	11160651	0	1	20166	1	0	next	other	0
+NU2-01test	588	Picture	34	11195983	0	1	20166	1	0	next	other	0
+NU2-01test	590	Picture	50	11231315	0	1	28832	1	0	next	other	0
+NU2-01test	590	Text Input	10	11260007	28692	0
+NU2-01test	590	Response	0	11260007	28692	1
+NU2-01test	591	Response	100	11261447	1300	1
+NU2-01test	593	Picture	10	11290480	0	1	20166	1	0	next	other	0
+NU2-01test	595	Picture	35	11325812	0	1	20166	1	0	next	other	0
+NU2-01test	597	Picture	50	11361144	0	1	34499	1	0	next	other	0
+NU2-01test	597	Text Input	7	11395525	34381	0
+NU2-01test	597	Response	0	11395525	34381	1
+NU2-01test	598	Response	100	11396805	1162	1
+NU2-01test	600	Picture	8	11425976	0	1	20166	1	0	next	other	0
+NU2-01test	602	Picture	26	11461308	0	1	20166	1	0	next	other	0
+NU2-01test	604	Picture	40	11496640	0	1	35666	1	0	next	other	0
+NU2-01test	604	Text Input	11	11532163	35523	0
+NU2-01test	604	Response	0	11532163	35523	1
+NU2-01test	605	Response	100	11533763	1458	1
+NU2-01test	607	Picture	12	11562638	0	1	20166	1	0	next	other	0
+NU2-01test	609	Picture	25	11597970	0	1	20166	1	0	next	other	0
+NU2-01test	611	Picture	62	11633302	0	1	20166	1	0	next	other	0
+NU2-01test	612	Response	0	11725601	71966	1
+NU2-01test	612	Response	0	11727361	73725	1
+NU2-01test	613	Response	0	11733921	6288	1
+NU2-01test	613	Response	100	11735360	7727	1
+NU2-01test	615	Picture	8	11750799	0	1	20166	1	0	next	other	0
+NU2-01test	617	Picture	37	11786131	0	1	20166	1	0	next	other	0
+NU2-01test	619	Picture	74	11821463	0	1	20166	1	0	next	other	0
+NU2-01test	620	Response	0	11878239	36443	1
+NU2-01test	620	Response	0	11880638	38842	1
+NU2-01test	621	Response	0	11890558	9597	1
+NU2-01test	621	Response	0	11890878	9916	1
+NU2-01test	622	Response	0	11930238	39110	1
+NU2-01test	622	Response	100	11931997	40869	1
+NU2-01test	624	Picture	11	11947459	0	1	20166	1	0	next	other	0
+NU2-01test	626	Picture	36	11982792	0	1	20166	1	0	next	other	0
+NU2-01test	628	Picture	50	12018124	0	1	41832	1	0	next	other	0
+NU2-01test	628	Text Input	8	12059835	41711	0
+NU2-01test	628	Response	0	12059835	41711	1
+NU2-01test	629	Response	100	12061275	1319	1
+NU2-01test	632	Picture	10	12690436	0	1	20166	1	0	next	other	0
+NU2-01test	634	Picture	27	12725768	0	1	20166	1	0	next	other	0
+NU2-01test	636	Picture	61	12761101	0	1	20166	1	0	next	other	0
+NU2-01test	637	Response	0	12793905	12472	1
+NU2-01test	637	Response	0	12798544	17111	1
+NU2-01test	638	Response	0	12801424	2658	1
+NU2-01test	638	Response	0	12802704	3938	1
+NU2-01test	639	Response	0	12824624	21691	1
+NU2-01test	639	Response	0	12825584	22651	1
+NU2-01test	640	Response	0	12830864	5098	1
+NU2-01test	640	Response	0	12831664	5898	1
+NU2-01test	641	Response	0	12833584	1652	1
+NU2-01test	641	Response	100	12834224	2292	1
+NU2-01test	643	Picture	10	12849598	0	1	20166	1	0	next	other	0
+NU2-01test	645	Picture	24	12884930	0	1	20166	1	0	next	other	0
+NU2-01test	647	Picture	40	12920262	0	1	28166	1	0	next	other	0
+NU2-01test	647	Text Input	12	12948302	28039	0
+NU2-01test	647	Response	0	12948302	28039	1
+NU2-01test	648	Response	100	12949742	1314	1
+NU2-01test	650	Picture	12	12978760	0	1	20166	1	0	next	other	0
+NU2-01test	652	Picture	37	13014093	0	1	20166	1	0	next	other	0
+NU2-01test	654	Picture	73	13049425	0	1	20166	1	0	next	other	0
+NU2-01test	655	Response	0	13101740	31983	1
+NU2-01test	655	Response	0	13102380	32622	1
+NU2-01test	656	Response	0	13117739	15150	1
+NU2-01test	656	Response	0	13119339	16750	1
+NU2-01test	657	Response	0	13121419	1830	1
+NU2-01test	657	Response	0	13121899	2310	1
+NU2-01test	658	Response	0	13166059	43970	1
+NU2-01test	658	Response	0	13167339	45249	1
+NU2-01test	659	Response	0	13168619	1031	1
+NU2-01test	659	Response	0	13170699	3111	1
+NU2-01test	660	Response	0	13173258	2337	1
+NU2-01test	660	Response	100	13174059	3137	1
+NU2-01test	662	Picture	8	13189420	0	1	20166	1	0	next	other	0
+NU2-01test	664	Picture	34	13224753	0	1	20166	1	0	next	other	0
+NU2-01test	666	Picture	73	13260085	0	1	20166	1	0	next	other	0
+NU2-01test	667	Response	0	13299337	18919	1
+NU2-01test	667	Response	0	13300937	20519	1
+NU2-01test	668	Response	0	13317257	16006	1
+NU2-01test	668	Response	0	13318216	16966	1
+NU2-01test	669	Response	0	13322376	3960	1
+NU2-01test	669	Response	0	13323336	4920	1
+NU2-01test	670	Response	0	13370376	46793	1
+NU2-01test	670	Response	0	13372296	48713	1
+NU2-01test	671	Response	0	13388136	15554	1
+NU2-01test	671	Response	0	13389095	16514	1
+NU2-01test	672	Response	0	13401415	12001	1
+NU2-01test	672	Response	0	13401895	12481	1
+NU2-01test	673	Response	0	13405415	3335	1
+NU2-01test	673	Response	0	13406535	4454	1
+NU2-01test	674	Response	0	13407495	748	1
+NU2-01test	674	Response	0	13408615	1868	1
+NU2-01test	675	Response	0	13411815	2901	1
+NU2-01test	675	Response	0	13412295	3381	1
+NU2-01test	676	Response	0	13414695	2115	1
+NU2-01test	676	Response	100	13415655	3075	1
+NU2-01test	678	Picture	11	13431080	0	1	20166	1	0	next	other	0
+NU2-01test	680	Picture	26	13466412	0	1	20166	1	0	next	other	0
+NU2-01test	682	Picture	40	13501744	0	1	33999	1	0	next	other	0
+NU2-01test	682	Text Input	14	13535653	33909	0
+NU2-01test	682	Response	0	13535653	33909	1
+NU2-01test	683	Response	100	13536933	1190	1
+NU2-01test	685	Picture	13	13566075	0	1	20166	1	0	next	other	0
+NU2-01test	687	Picture	25	13601408	0	1	20166	1	0	next	other	0
+NU2-01test	689	Picture	40	13636740	0	1	45665	1	0	next	other	0
+NU2-01test	689	Text Input	15	13682371	45631	0
+NU2-01test	689	Response	0	13682371	45631	1
+NU2-01test	690	Response	100	13684131	1726	1
+NU2-01test	692	Picture	11	13712737	0	1	20166	1	0	next	other	0
+NU2-01test	694	Picture	26	13748070	0	1	20166	1	0	next	other	0
+NU2-01test	696	Picture	64	13783402	0	1	20166	1	0	next	other	0
+NU2-01test	697	Response	0	13816929	13194	1
+NU2-01test	697	Response	0	13818049	14314	1
+NU2-01test	698	Response	0	13819009	775	1
+NU2-01test	698	Response	0	13819489	1255	1
+NU2-01test	699	Response	0	13823009	3275	1
+NU2-01test	699	Response	0	13823489	3755	1
+NU2-01test	700	Response	0	13834049	10315	1
+NU2-01test	700	Response	100	13835328	11594	1
+NU2-01test	702	Picture	10	13850733	0	1	20166	1	0	next	other	0
+NU2-01test	704	Picture	27	13886065	0	1	20166	1	0	next	other	0
+NU2-01test	706	Picture	40	13921398	0	1	51665	1	0	next	other	0
+NU2-01test	706	Text Input	10	13972926	51529	0
+NU2-01test	706	Response	0	13972926	51529	1
+NU2-01test	707	Response	100	13974526	1464	1
+NU2-01test	709	Picture	10	14003395	0	1	20166	1	0	next	other	0
+NU2-01test	711	Picture	24	14038727	0	1	20166	1	0	next	other	0
+NU2-01test	713	Picture	62	14074059	0	1	20166	1	0	next	other	0
+NU2-01test	714	Response	0	14099165	4773	1
+NU2-01test	714	Response	100	14100125	5732	1
+NU2-01test	716	Picture	12	14115558	0	1	20166	1	0	next	other	0
+NU2-01test	718	Picture	25	14150890	0	1	20166	1	0	next	other	0
+NU2-01test	720	Picture	64	14186223	0	1	20166	1	0	next	other	0
+NU2-01test	721	Response	0	14233723	27168	1
+NU2-01test	721	Response	0	14238842	32287	1
+NU2-01test	722	Response	0	14242202	3148	1
+NU2-01test	722	Response	0	14243002	3948	1
+NU2-01test	723	Response	0	14243802	581	1
+NU2-01test	723	Response	100	14244922	1701	1
+NU2-01test	725	Picture	10	14260387	0	1	20166	1	0	next	other	0
+NU2-01test	727	Picture	37	14295719	0	1	20166	1	0	next	other	0
+NU2-01test	729	Picture	50	14331051	0	1	85497	1	0	next	other	0
+NU2-01test	729	Text Input	6	14416440	85388	0
+NU2-01test	729	Response	0	14416440	85388	1
+NU2-01test	730	Response	100	14417880	1331	1
+NU2-01test	732	Picture	9	14446881	0	1	20166	1	0	next	other	0
+NU2-01test	734	Picture	35	14482213	0	1	20166	1	0	next	other	0
+NU2-01test	736	Picture	74	14517546	0	1	20166	1	0	next	other	0
+NU2-01test	737	Response	0	14554518	16640	1
+NU2-01test	737	Response	0	14558838	20959	1
+NU2-01test	738	Response	0	14562838	3793	1
+NU2-01test	738	Response	0	14564437	5393	1
+NU2-01test	739	Response	0	14572437	7727	1
+NU2-01test	739	Response	100	14573717	9007	1
+NU2-01test	741	Picture	12	14589210	0	1	20166	1	0	next	other	0
+NU2-01test	743	Picture	35	14624542	0	1	20166	1	0	next	other	0
+NU2-01test	745	Picture	50	14659874	0	1	25666	1	0	next	other	0
+NU2-01test	745	Text Input	9	14685396	25521	0
+NU2-01test	745	Response	0	14685396	25521	1
+NU2-01test	746	Response	100	14686835	1295	1
+NU2-01test	748	Picture	9	14715873	0	1	20166	1	0	next	other	0
+NU2-01test	750	Picture	36	14751205	0	1	20166	1	0	next	other	0
+NU2-01test	752	Picture	50	14786537	0	1	32499	1	0	next	other	0
+NU2-01test	752	Text Input	6	14818993	32456	0
+NU2-01test	752	Response	0	14818993	32456	1
+NU2-01test	753	Response	100	14820273	1237	1
+NU2-01test	755	Picture	8	14849369	0	1	20166	1	0	next	other	0
+NU2-01test	757	Picture	24	14884701	0	1	20166	1	0	next	other	0
+NU2-01test	759	Picture	61	14920033	0	1	20166	1	0	next	other	0
+NU2-01test	760	Response	0	14943632	3267	1
+NU2-01test	760	Response	0	14945552	5186	1
+NU2-01test	761	Response	0	14949872	4006	1
+NU2-01test	761	Response	0	14951151	5286	1
+NU2-01test	762	Response	0	14952592	1226	1
+NU2-01test	762	Response	100	14953711	2346	1
+NU2-01test	764	Picture	11	14969198	0	1	20166	1	0	next	other	0
+NU2-01test	766	Picture	35	15004530	0	1	20166	1	0	next	other	0
+NU2-01test	768	Picture	50	15039863	0	1	40499	1	0	next	other	0
+NU2-01test	768	Text Input	8	15080270	40407	0
+NU2-01test	768	Response	0	15080270	40407	1
+NU2-01test	769	Response	100	15080750	388	1
+NU2-01test	771	Picture	8	15110694	0	1	20166	1	0	next	other	0
+NU2-01test	773	Picture	27	15146026	0	1	20166	1	0	next	other	0
+NU2-01test	775	Picture	65	15181358	0	1	20166	1	0	next	other	0
+NU2-01test	776	Response	0	15261707	60017	1
+NU2-01test	776	Response	0	15262987	61296	1
+NU2-01test	777	Response	0	15266827	3638	1
+NU2-01test	777	Response	0	15268107	4918	1
+NU2-01test	778	Response	0	15269547	1191	1
+NU2-01test	778	Response	100	15270827	2471	1
+NU2-01test	780	Picture	10	15286188	0	1	20166	1	0	next	other	0
+NU2-01test	782	Picture	34	15321520	0	1	20166	1	0	next	other	0
+NU2-01test	784	Picture	50	15356853	0	1	24832	1	0	next	other	0
+NU2-01test	784	Text Input	8	15381545	24692	0
+NU2-01test	784	Response	0	15381545	24692	1
+NU2-01test	785	Response	100	15382665	980	1
+NU2-01test	787	Picture	9	15412018	0	1	20166	1	0	next	other	0
+NU2-01test	789	Picture	27	15447350	0	1	20166	1	0	next	other	0
+NU2-01test	791	Picture	65	15482682	0	1	20166	1	0	next	other	0
+NU2-01test	792	Response	0	15528743	25729	1
+NU2-01test	792	Response	0	15530503	27488	1
+NU2-01test	793	Response	0	15542983	12303	1
+NU2-01test	793	Response	100	15544743	14062	1
+NU2-01test	795	Picture	10	15560180	0	1	20166	1	0	next	other	0
+NU2-01test	797	Picture	25	15595512	0	1	20166	1	0	next	other	0
+NU2-01test	799	Picture	64	15630844	0	1	20166	1	0	next	other	0
+NU2-01test	800	Response	0	15657701	6525	1
+NU2-01test	800	Response	0	15660101	8924	1
+NU2-01test	801	Response	0	15663941	3598	1
+NU2-01test	801	Response	0	15665221	4878	1
+NU2-01test	802	Response	0	15665701	191	1
+NU2-01test	802	Response	100	15667141	1631	1
+NU2-01test	804	Picture	9	15682509	0	1	20166	1	0	next	other	0
+NU2-01test	806	Picture	24	15717841	0	1	20166	1	0	next	other	0
+NU2-01test	808	Picture	40	15753174	0	1	30166	1	0	next	other	0
+NU2-01test	808	Text Input	11	15783299	30126	0
+NU2-01test	808	Response	0	15783299	30126	1
+NU2-01test	809	Response	100	15784099	760	1
+NU2-01test	811	Picture	9	15813672	0	1	20166	1	0	next	other	0
+NU2-01test	813	Picture	36	15849004	0	1	20166	1	0	next	other	0
+NU2-01test	815	Picture	73	15884336	0	1	20166	1	0	next	other	0
+NU2-01test	816	Response	0	15918018	13349	1
+NU2-01test	816	Response	0	15919617	14948	1
+NU2-01test	817	Response	0	15928737	8902	1
+NU2-01test	817	Response	100	15930497	10662	1
+NU2-01test	819	Picture	12	15945834	0	1	20166	1	0	next	other	0
+NU2-01test	821	Picture	26	15981166	0	1	20166	1	0	next	other	0
+NU2-01test	823	Picture	64	16016499	0	1	20166	1	0	next	other	0
+NU2-01test	824	Response	0	16044256	7424	1
+NU2-01test	824	Response	0	16046335	9504	1
+NU2-01test	825	Response	0	16053215	6551	1
+NU2-01test	825	Response	0	16054335	7671	1
+NU2-01test	826	Response	0	16056095	1431	1
+NU2-01test	826	Response	0	16058655	3991	1
+NU2-01test	827	Response	0	16064895	6064	1
+NU2-01test	827	Response	0	16065855	7024	1
+NU2-01test	828	Response	0	16068255	2091	1
+NU2-01test	828	Response	100	16068895	2731	1
+NU2-01test	830	Picture	9	16084330	0	1	20166	1	0	next	other	0
+NU2-01test	832	Picture	34	16119662	0	1	20166	1	0	next	other	0
+NU2-01test	834	Picture	72	16154994	0	1	20166	1	0	next	other	0
+NU2-01test	835	Response	0	16178174	2847	1
+NU2-01test	835	Response	100	16179453	4126	1
+NU2-01test	837	Picture	12	16194826	0	1	20166	1	0	next	other	0
+NU2-01test	839	Picture	34	16230159	0	1	20166	1	0	next	other	0
+NU2-01test	841	Picture	50	16265491	0	1	28499	1	0	next	other	0
+NU2-01test	841	Text Input	10	16293851	28360	0
+NU2-01test	841	Response	0	16293851	28360	1
+NU2-01test	842	Response	100	16295451	1461	1
+NU2-01test	844	Picture	9	16324322	0	1	20166	1	0	next	other	0
+NU2-01test	846	Picture	26	16359655	0	1	20166	1	0	next	other	0
+NU2-01test	848	Picture	40	16394987	0	1	33666	1	0	next	other	0
+NU2-01test	848	Text Input	12	16428569	33582	0
+NU2-01test	848	Response	0	16428569	33582	1
+NU2-01test	849	Response	100	16430169	1517	1
+NU2-01test	851	Picture	9	16458985	0	1	20166	1	0	next	other	0
+NU2-01test	853	Picture	35	16494317	0	1	20166	1	0	next	other	0
+NU2-01test	855	Picture	50	16529649	0	1	92330	1	0	next	other	0
+NU2-01test	855	Text Input	6	16621846	92197	0
+NU2-01test	855	Response	0	16621846	92197	1
+NU2-01test	856	Response	100	16623766	1787	1
+NU2-01test	858	Picture	12	16652312	0	1	20166	1	0	next	other	0
+NU2-01test	860	Picture	36	16687644	0	1	20166	1	0	next	other	0
+NU2-01test	862	Picture	50	16722977	0	1	25833	1	0	next	other	0
+NU2-01test	862	Text Input	9	16748724	25748	0
+NU2-01test	862	Response	0	16748724	25748	1
+NU2-01test	863	Response	100	16750164	1355	1
+NU2-01test	865	Picture	12	16779141	0	1	20166	1	0	next	other	0
+NU2-01test	867	Picture	25	16814474	0	1	20166	1	0	next	other	0
+NU2-01test	869	Picture	40	16849806	0	1	29166	1	0	next	other	0
+NU2-01test	869	Text Input	14	16878803	28997	0
+NU2-01test	869	Response	0	16878803	28997	1
+NU2-01test	870	Response	100	16880242	1271	1
+NU2-01test	872	Picture	11	16909304	0	1	20166	1	0	next	other	0
+NU2-01test	874	Picture	37	16944636	0	1	20166	1	0	next	other	0
+NU2-01test	876	Picture	50	16979968	0	1	135329	1	0	next	other	0
+NU2-01test	876	Text Input	7	17115279	135310	0
+NU2-01test	876	Response	0	17115279	135310	1
+NU2-01test	877	Response	100	17116719	1421	1
+NU2-01test	879	Picture	10	17145630	0	1	20166	1	0	next	other	0
+NU2-01test	881	Picture	26	17180962	0	1	20166	1	0	next	other	0
+NU2-01test	883	Picture	61	17216294	0	1	20166	1	0	next	other	0
+NU2-01test	884	Response	0	17265357	28730	1
+NU2-01test	884	Response	0	17268876	32249	1
+NU2-01test	885	Response	0	17269997	871	1
+NU2-01test	885	Response	100	17271757	2630	1
+NU2-01test	887	Picture	12	17287126	0	1	20166	1	0	next	other	0
+NU2-01test	889	Picture	24	17322458	0	1	20166	1	0	next	other	0
+NU2-01test	891	Picture	40	17357790	0	1	49498	1	0	next	other	0
+NU2-01test	891	Text Input	14	17407114	49324	0
+NU2-01test	891	Response	0	17407114	49324	1
+NU2-01test	892	Response	100	17409034	1746	1
+NU2-01test	894	Picture	10	17437621	0	1	20166	1	0	next	other	0
+NU2-01test	896	Picture	27	17472953	0	1	20166	1	0	next	other	0
+NU2-01test	898	Picture	40	17508285	0	1	27666	1	0	next	other	0
+NU2-01test	898	Text Input	13	17535912	27627	0
+NU2-01test	898	Response	0	17535912	27627	1
+NU2-01test	899	Response	100	17537672	1721	1
+NU2-01test	901	Picture	12	17566283	0	1	20166	1	0	next	other	0
+NU2-01test	903	Picture	25	17601616	0	1	20166	1	0	next	other	0
+NU2-01test	905	Picture	40	17636948	0	1	31166	1	0	next	other	0
+NU2-01test	905	Text Input	14	17668070	31122	0
+NU2-01test	905	Response	0	17668070	31122	1
+NU2-01test	906	Response	100	17669831	1717	1
+NU2-01test	908	Picture	8	17698446	0	1	20166	1	0	next	other	0
+NU2-01test	910	Picture	24	17733778	0	1	20166	1	0	next	other	0
+NU2-01test	912	Picture	62	17769110	0	1	20166	1	0	next	other	0
+NU2-01test	913	Response	0	17792389	2946	1
+NU2-01test	913	Response	100	17794789	5345	1
+NU2-01test	915	Picture	8	17810276	0	1	20166	1	0	next	other	0
+NU2-01test	917	Picture	34	17845608	0	1	20166	1	0	next	other	0
+NU2-01test	919	Picture	50	17880940	0	1	27832	1	0	next	other	0
+NU2-01test	919	Text Input	6	17908707	27767	0
+NU2-01test	919	Response	0	17908707	27767	1
+NU2-01test	920	Response	100	17910467	1694	1
+NU2-01test	922	Picture	11	17939105	0	1	20166	1	0	next	other	0
+NU2-01test	924	Picture	25	17974437	0	1	20166	1	0	next	other	0
+NU2-01test	926	Picture	64	18009770	0	1	20166	1	0	next	other	0
+NU2-01test	927	Response	0	18035905	5803	1
+NU2-01test	927	Response	0	18041825	11723	1
+NU2-01test	928	Response	0	18045025	2923	1
+NU2-01test	928	Response	100	18046305	4203	1
+NU2-01test	930	Picture	10	18061768	0	1	20166	1	0	next	other	0
+NU2-01test	932	Picture	35	18097100	0	1	20166	1	0	next	other	0
+NU2-01test	934	Picture	50	18132432	0	1	56332	1	0	next	other	0
+NU2-01test	934	Text Input	7	18188702	56270	0
+NU2-01test	934	Response	0	18188702	56270	1
+NU2-01test	935	Response	100	18190783	2019	1
+NU2-01test	937	Picture	10	18219096	0	1	20166	1	0	next	other	0
+NU2-01test	939	Picture	24	18254429	0	1	20166	1	0	next	other	0
+NU2-01test	941	Picture	63	18289761	0	1	20166	1	0	next	other	0
+NU2-01test	942	Response	0	18324381	14288	1
+NU2-01test	942	Response	0	18326461	16367	1
+NU2-01test	943	Response	0	18331101	4341	1
+NU2-01test	943	Response	0	18331740	4981	1
+NU2-01test	944	Response	0	18333340	1414	1
+NU2-01test	944	Response	100	18334620	2694	1
+NU2-01test	946	Picture	9	18350092	0	1	20166	1	0	next	other	0
+NU2-01test	948	Picture	37	18385424	0	1	20166	1	0	next	other	0
+NU2-01test	950	Picture	72	18420757	0	1	20166	1	0	next	other	0
+NU2-01test	951	Response	0	18458779	17690	1
+NU2-01test	951	Response	0	18464058	22969	1
+NU2-01test	952	Response	0	18471578	7323	1
+NU2-01test	952	Response	100	18473818	9563	1
+NU2-01test	954	Picture	9	18489255	0	1	20166	1	0	next	other	0
+NU2-01test	956	Picture	24	18524587	0	1	20166	1	0	next	other	0
+NU2-01test	958	Picture	40	18559919	0	1	29499	1	0	next	other	0
+NU2-01test	958	Text Input	11	18589337	29418	0
+NU2-01test	958	Response	0	18589337	29418	1
+NU2-01test	959	Response	100	18591257	1838	1
+NU2-01test	961	Picture	10	18619751	0	1	20166	1	0	next	other	0
+NU2-01test	963	Picture	34	18655083	0	1	20166	1	0	next	other	0
+NU2-01test	965	Picture	71	18690415	0	1	20166	1	0	next	other	0
+NU2-01test	966	Response	0	18717015	6268	1
+NU2-01test	966	Response	0	18719255	8507	1
+NU2-01test	967	Response	0	18726774	7194	1
+NU2-01test	967	Response	100	18728854	9274	1
+NU2-01test	969	Picture	11	18744247	0	1	20166	1	0	next	other	0
+NU2-01test	971	Picture	24	18779579	0	1	20166	1	0	next	other	0
+NU2-01test	973	Picture	62	18814911	0	1	20166	1	0	next	other	0
+NU2-01test	974	Response	0	18863413	28169	1
+NU2-01test	974	Response	0	18863893	28649	1
+NU2-01test	974	Response	0	18864052	28808	1
+NU2-01test	975	Response	100	18864532	289	1
+NU2-01test	975	Response	0	18877172	12929	1
+NU2-01test	975	Response	0	18877972	13729	1
+NU2-01test	976	Response	0	18882932	4690	1
+NU2-01test	976	Response	100	18884532	6290	1
+NU2-01test	978	Picture	12	18899908	0	1	20166	1	0	next	other	0
+NU2-01test	980	Picture	27	18935241	0	1	20166	1	0	next	other	0
+NU2-01test	982	Picture	64	18970573	0	1	20166	1	0	next	other	0
+NU2-01test	983	Response	0	19043570	52664	1
+NU2-01test	983	Response	0	19046450	55544	1
+NU2-01test	984	Response	0	19049970	3233	1
+NU2-01test	984	Response	100	19051890	5152	1
+NU2-01test	986	Picture	11	19067236	0	1	20166	1	0	next	other	0
+NU2-01test	988	Picture	37	19102569	0	1	20166	1	0	next	other	0
+NU2-01test	990	Picture	76	19137901	0	1	20166	1	0	next	other	0
+NU2-01test	991	Response	0	19187088	28854	1
+NU2-01test	991	Response	0	19191888	33654	1
+NU2-01test	992	Response	0	19194928	2892	1
+NU2-01test	992	Response	0	19196687	4652	1
+NU2-01test	993	Response	0	19198447	1548	1
+NU2-01test	993	Response	100	19200367	3468	1
+NU2-01test	995	Picture	10	19215732	0	1	20166	1	0	next	other	0
+NU2-01test	997	Picture	35	19251064	0	1	20166	1	0	next	other	0
+NU2-01test	999	Picture	73	19286396	0	1	20166	1	0	next	other	0
+NU2-01test	1000	Response	0	19340686	33957	1
+NU2-01test	1000	Response	0	19342925	36196	1
+NU2-01test	1001	Response	0	19346445	3217	1
+NU2-01test	1001	Response	0	19347405	4177	2
+NU2-01test	1002	Response	0	19355885	8157	1
+NU2-01test	1002	Response	0	19357645	9917	1
+NU2-01test	1003	Response	0	19365005	7111	1
+NU2-01test	1003	Response	100	19366605	8711	1
+NU2-01test	1005	Picture	9	19382060	0	1	20166	1	0	next	other	0
+NU2-01test	1007	Picture	37	19417392	0	1	20166	1	0	next	other	0
+NU2-01test	1009	Picture	50	19452724	0	1	54498	1	0	next	other	0
+NU2-01test	1009	Text Input	5	19507083	54358	0
+NU2-01test	1009	Response	0	19507083	54358	1
+NU2-01test	1010	Response	100	19508363	1140	1
+NU2-01test	1012	Picture	11	19537555	0	1	20166	1	0	next	other	0
+NU2-01test	1014	Picture	27	19572887	0	1	20166	1	0	next	other	0
+NU2-01test	1016	Picture	62	19608220	0	1	20166	1	0	next	other	0
+NU2-01test	1017	Response	0	19633161	4609	1
+NU2-01test	1017	Response	0	19638121	9569	1
+NU2-01test	1018	Response	0	19642921	4535	1
+NU2-01test	1018	Response	100	19644681	6295	1
+NU2-01test	1020	Picture	12	19660051	0	1	20166	1	0	next	other	0
+NU2-01test	1022	Picture	27	19695383	0	1	20166	1	0	next	other	0
+NU2-01test	1024	Picture	40	19730716	0	1	68831	1	0	next	other	0
+NU2-01test	1024	Text Input	15	19799398	68683	0
+NU2-01test	1024	Response	0	19799398	68683	1
+NU2-01test	1025	Response	100	19800678	1131	1
+NU2-01test	1027	Picture	11	19829879	0	1	20166	1	0	next	other	0
+NU2-01test	1029	Picture	24	19865212	0	1	20166	1	0	next	other	0
+NU2-01test	1031	Picture	40	19900544	0	1	35666	1	0	next	other	0
+NU2-01test	1031	Text Input	13	19936036	35492	0
+NU2-01test	1031	Response	0	19936036	35492	1
+NU2-01test	1032	Response	100	19937796	1587	1
+NU2-01test	1034	Picture	10	19966542	0	1	20166	1	0	next	other	0
+NU2-01test	1036	Picture	25	20001874	0	1	20166	1	0	next	other	0
+NU2-01test	1038	Picture	40	20037206	0	1	27832	1	0	next	other	0
+NU2-01test	1038	Text Input	12	20064994	27788	0
+NU2-01test	1038	Response	0	20064994	27788	1
+NU2-01test	1039	Response	100	20066754	1716	1
+NU2-01test	1041	Picture	12	20095371	0	1	20166	1	0	next	other	0
+NU2-01test	1043	Picture	27	20130703	0	1	20166	1	0	next	other	0
+NU2-01test	1045	Picture	65	20166035	0	1	20166	1	0	next	other	0
+NU2-01test	1046	Response	0	20205153	18784	1
+NU2-01test	1046	Response	0	20207392	21024	1
+NU2-01test	1047	Response	0	20220832	13132	1
+NU2-01test	1047	Response	0	20221792	14091	1
+NU2-01test	1048	Response	0	20223232	1198	1
+NU2-01test	1048	Response	0	20224352	2318	1
+NU2-01test	1049	Response	0	20225952	1418	1
+NU2-01test	1049	Response	0	20226752	2218	1
+NU2-01test	1050	Response	0	20229312	2278	1
+NU2-01test	1050	Response	0	20229792	2758	1
+NU2-01test	1051	Response	0	20235392	5358	1
+NU2-01test	1051	Response	0	20236832	6798	1
+NU2-01test	1052	Response	0	20242432	5398	1
+NU2-01test	1052	Response	0	20243392	6358	1
+NU2-01test	1053	Response	0	20244832	1132	1
+NU2-01test	1053	Response	100	20246271	2572	1
+NU2-01test	1055	Picture	12	20261699	0	1	20166	1	0	next	other	0
+NU2-01test	1057	Picture	34	20297031	0	1	20166	1	0	next	other	0
+NU2-01test	1059	Picture	50	20332364	0	1	30166	1	0	next	other	0
+NU2-01test	1059	Text Input	10	20362430	30066	0
+NU2-01test	1059	Response	0	20362430	30066	1
+NU2-01test	1060	Response	100	20363550	1020	1
+NU2-01test	1062	Picture	10	20392862	0	1	20166	1	0	next	other	0
+NU2-01test	1064	Picture	37	20428194	0	1	20166	1	0	next	other	0
+NU2-01test	1066	Picture	50	20463526	0	1	31332	1	0	next	other	0
+NU2-01test	1066	Text Input	6	20494748	31222	0
+NU2-01test	1066	Response	0	20494748	31222	1
+NU2-01test	1067	Response	100	20496187	1329	1
+NU2-01test	1069	Picture	8	20525191	0	1	20166	1	0	next	other	0
+NU2-01test	1071	Picture	26	20560523	0	1	20166	1	0	next	other	0
+NU2-01test	1073	Picture	40	20595855	0	1	28499	1	0	next	other	0
+NU2-01test	1073	Text Input	11	20624186	28330	0
+NU2-01test	1073	Response	0	20624186	28330	1
+NU2-01test	1074	Response	100	20625786	1431	1
+NU2-01test	1076	Picture	10	20654687	0	1	20166	1	0	next	other	0
+NU2-01test	1078	Picture	24	20690019	0	1	20166	1	0	next	other	0
+NU2-01test	1080	Picture	62	20725351	0	1	20166	1	0	next	other	0
+NU2-01test	1081	Response	0	20748664	2980	1
+NU2-01test	1081	Response	100	20750584	4900	1
+NU2-01test	1083	Picture	13	20766017	0	1	20166	1	0	next	other	0
+NU2-01test	1085	Picture	37	20801349	0	1	20166	1	0	next	other	0
+NU2-01test	1087	Picture	50	20836681	0	1	26666	1	0	next	other	0
+NU2-01test	1087	Text Input	9	20863222	26541	0
+NU2-01test	1087	Response	0	20863222	26541	1
+NU2-01test	1088	Response	100	20864822	1475	1
+NU2-01test	1090	Picture	12	20893679	0	1	20166	1	0	next	other	0
+NU2-01test	1092	Picture	24	20929012	0	1	20166	1	0	next	other	0
+NU2-01test	1094	Picture	62	20964344	0	1	20166	1	0	next	other	0
+NU2-01test	1095	Response	0	20987220	2544	1
+NU2-01test	1095	Response	100	20989140	4464	1
+NU2-01test	1097	Picture	10	21004509	0	1	20166	1	0	next	other	0
+NU2-01test	1099	Picture	37	21039841	0	1	20166	1	0	next	other	0
+NU2-01test	1101	Picture	50	21075174	0	1	25499	1	0	next	other	0
+NU2-01test	1101	Text Input	6	21100498	25325	0
+NU2-01test	1101	Response	0	21100498	25325	1
+NU2-01test	1102	Response	100	21102259	1586	1
+NU2-01test	1104	Picture	12	21131005	0	1	20166	1	0	next	other	0
+NU2-01test	1106	Picture	35	21166337	0	1	20166	1	0	next	other	0
+NU2-01test	1108	Picture	50	21201670	0	1	25833	1	0	next	other	0
+NU2-01test	1108	Text Input	9	21227377	25707	0
+NU2-01test	1108	Response	0	21227377	25707	1
+NU2-01test	1109	Response	100	21229137	1634	1
+NU2-01test	1111	Picture	11	21257835	0	1	20166	1	0	next	other	0
+NU2-01test	1113	Picture	25	21293167	0	1	20166	1	0	next	other	0
+NU2-01test	1115	Picture	40	21328499	0	1	28499	1	0	next	other	0
+NU2-01test	1115	Text Input	13	21356975	28476	0
+NU2-01test	1115	Response	0	21356975	28476	1
+NU2-01test	1116	Response	100	21358734	1736	1
+NU2-01test	1118	Picture	9	21387331	0	1	20166	1	0	next	other	0
+NU2-01test	1120	Picture	27	21422663	0	1	20166	1	0	next	other	0
+NU2-01test	1122	Picture	40	21457995	0	1	29166	1	0	next	other	0
+NU2-01test	1122	Text Input	12	21487053	29058	0
+NU2-01test	1122	Response	0	21487053	29058	1
+NU2-01test	1123	Response	100	21488493	1332	1
+NU2-01test	1125	Picture	10	21517493	0	1	20166	1	0	next	other	0
+NU2-01test	1127	Picture	27	21552825	0	1	20166	1	0	next	other	0
+NU2-01test	1129	Picture	63	21588158	0	1	20166	1	0	next	other	0
+NU2-01test	1130	Response	0	21676810	68320	1
+NU2-01test	1130	Response	0	21678410	69920	1
+NU2-01test	1131	Response	0	21718250	39595	1
+NU2-01test	1131	Response	0	21719529	40874	1
+NU2-01test	1132	Response	0	21726409	6589	1
+NU2-01test	1132	Response	0	21727529	7709	1
+NU2-01test	1133	Response	0	21732649	4829	1
+NU2-01test	1133	Response	0	21733449	5629	1
+NU2-01test	1134	Response	0	21740969	7316	1
+NU2-01test	1134	Response	0	21741609	7956	1
+NU2-01test	1135	Response	0	21742569	749	1
+NU2-01test	1135	Response	100	21743849	2029	1
+NU2-01test	1137	Picture	11	21759319	0	1	20166	1	0	next	other	0
+NU2-01test	1139	Picture	35	21794651	0	1	20166	1	0	next	other	0
+NU2-01test	1141	Picture	50	21829983	0	1	42665	1	0	next	other	0
+NU2-01test	1141	Text Input	9	21872487	42504	0
+NU2-01test	1141	Response	0	21872487	42504	1
+NU2-01test	1142	Response	100	21874087	1438	1
+NU2-01test	1144	Picture	12	21902981	0	1	20166	1	0	next	other	0
+NU2-01test	1146	Picture	26	21938313	0	1	20166	1	0	next	other	0
+NU2-01test	1148	Picture	40	21973646	0	1	27332	1	0	next	other	0
+NU2-01test	1148	Text Input	15	22000965	27319	0
+NU2-01test	1148	Response	0	22000965	27319	1
+NU2-01test	1149	Response	100	22002085	1107	1
+NU2-01test	1151	Picture	12	22031310	0	1	20166	1	0	next	other	0
+NU2-01test	1153	Picture	26	22066643	0	1	20166	1	0	next	other	0
+NU2-01test	1155	Picture	40	22101975	0	1	28166	1	0	next	other	0
+NU2-01test	1155	Text Input	15	22130083	28108	0
+NU2-01test	1155	Response	0	22130083	28108	1
+NU2-01test	1156	Response	100	22131363	1223	1
+NU2-01test	1158	Picture	8	22160473	0	1	20166	1	0	next	other	0
+NU2-01test	1160	Picture	26	22195805	0	1	20166	1	0	next	other	0
+NU2-01test	1162	Picture	62	22231137	0	1	20166	1	0	next	other	0
+NU2-01test	1163	Response	0	22258081	6611	1
+NU2-01test	1163	Response	0	22259201	7731	1
+NU2-01test	1164	Response	0	22270721	11251	1
+NU2-01test	1164	Response	0	22271521	12051	1
+NU2-01test	1165	Response	0	22276641	4838	1
+NU2-01test	1165	Response	0	22277441	5638	1
+NU2-01test	1166	Response	0	22278561	925	1
+NU2-01test	1166	Response	100	22280321	2685	1
+NU2-01test	1168	Picture	11	22295802	0	1	20166	1	0	next	other	0
+NU2-01test	1170	Picture	35	22331134	0	1	20166	1	0	next	other	0
+NU2-01test	1172	Picture	50	22366467	0	1	42832	1	0	next	other	0
+NU2-01test	1172	Text Input	9	22409279	42812	0
+NU2-01test	1172	Response	0	22409279	42812	1
+NU2-01test	1173	Response	100	22411039	1740	1
+NU2-01test	1175	Picture	11	22439631	0	1	20166	1	0	next	other	0
+NU2-01test	1177	Picture	24	22474963	0	1	20166	1	0	next	other	0
+NU2-01test	1179	Picture	40	22510295	0	1	35332	1	0	next	other	0
+NU2-01test	1179	Text Input	13	22545597	35301	0
+NU2-01test	1179	Response	0	22545597	35301	1
+NU2-01test	1180	Response	100	22547197	1569	1
+NU2-01test	1182	Picture	13	22575960	0	1	20166	1	0	next	other	0
+NU2-01test	1184	Picture	25	22611292	0	1	20166	1	0	next	other	0
+NU2-01test	1186	Picture	40	22646624	0	1	28499	1	0	next	other	0
+NU2-01test	1186	Text Input	15	22675035	28410	0
+NU2-01test	1186	Response	0	22675035	28410	1
+NU2-01test	1187	Response	100	22676955	1831	1
+NU2-01test	1189	Picture	10	22705456	0	1	20166	1	0	next	other	0
+NU2-01test	1191	Picture	26	22740788	0	1	20166	1	0	next	other	0
+NU2-01test	1193	Picture	40	22776120	0	1	26499	1	0	next	other	0
+NU2-01test	1193	Text Input	13	22802553	26432	0
+NU2-01test	1193	Response	0	22802553	26432	1
+NU2-01test	1194	Response	100	22804313	1693	1
+NU2-01test	1196	Picture	10	22832952	0	1	20166	1	0	next	other	0
+NU2-01test	1198	Picture	26	22868284	0	1	20166	1	0	next	other	0
+NU2-01test	1200	Picture	40	22903616	0	1	27832	1	0	next	other	0
+NU2-01test	1200	Text Input	13	22931351	27734	0
+NU2-01test	1200	Response	0	22931351	27734	1
+NU2-01test	1201	Response	100	22932951	1502	1
+NU2-01test	1203	Picture	9	22961781	0	1	20166	1	0	next	other	0
+NU2-01test	1205	Picture	35	22997114	0	1	20166	1	0	next	other	0
+NU2-01test	1207	Picture	50	23032446	0	1	43665	1	0	next	other	0
+NU2-01test	1207	Text Input	6	23075989	43543	0
+NU2-01test	1207	Response	0	23075989	43543	1
+NU2-01test	1208	Response	100	23077589	1478	1
+NU2-01test	1210	Picture	10	23106443	0	1	20166	1	0	next	other	0
+NU2-01test	1212	Picture	37	23141776	0	1	20166	1	0	next	other	0
+NU2-01test	1214	Picture	73	23177108	0	1	20166	1	0	next	other	0
+NU2-01test	1215	Response	0	23277746	80306	1
+NU2-01test	1215	Response	0	23280625	83185	1
+NU2-01test	1216	Response	0	23287186	6248	1
+NU2-01test	1216	Response	0	23288145	7208	1
+NU2-01test	1217	Response	0	23316785	28348	1
+NU2-01test	1217	Response	0	23318065	29627	1
+NU2-01test	1218	Response	0	23321425	3155	1
+NU2-01test	1218	Response	100	23323025	4755	1
+NU2-01test	1220	Picture	10	23338436	0	1	20166	1	0	next	other	0
+NU2-01test	1222	Picture	36	23373768	0	1	20166	1	0	next	other	0
+NU2-01test	1224	Picture	72	23409101	0	1	20166	1	0	next	other	0
+NU2-01test	1225	Response	0	23553902	124469	1
+NU2-01test	1225	Response	0	23559501	130068	1
+NU2-01test	1226	Response	0	23563181	3419	1
+NU2-01test	1226	Response	0	23563341	3579	1
+NU2-01test	1227	Response	0	23569901	6306	1
+NU2-01test	1227	Response	0	23570541	6945	1
+NU2-01test	1228	Response	0	23597901	27139	1
+NU2-01test	1228	Response	100	23599341	28579	1
+NU2-01test	1230	Picture	10	23614761	0	1	20166	1	0	next	other	0
+NU2-01test	1232	Picture	35	23650093	0	1	20166	1	0	next	other	0
+NU2-01test	1234	Picture	50	23685425	0	1	108330	1	0	next	other	0
+NU2-01test	1234	Text Input	7	23793578	108153	0
+NU2-01test	1234	Response	0	23793578	108153	1
+NU2-01test	1235	Response	100	23795178	1423	1
+NU2-01test	1237	Picture	9	23824088	0	1	20166	1	0	next	other	0
+NU2-01test	1239	Picture	26	23859420	0	1	20166	1	0	next	other	0
+NU2-01test	1241	Picture	40	23894752	0	1	27666	1	0	next	other	0
+NU2-01test	1241	Text Input	12	23922376	27624	0
+NU2-01test	1241	Response	0	23922376	27624	1
+NU2-01test	1242	Response	100	23924456	2038	1
+NU2-01test	1244	Picture	10	23952750	0	1	20166	1	0	next	other	0
+NU2-01test	1246	Picture	27	23988083	0	1	20166	1	0	next	other	0
+NU2-01test	1248	Picture	40	24023415	0	1	26999	1	0	next	other	0
+NU2-01test	1248	Text Input	13	24050374	26959	0
+NU2-01test	1248	Response	0	24050374	26959	1
+NU2-01test	1249	Response	100	24051814	1400	1
+NU2-01test	1251	Picture	12	24080746	0	1	20166	1	0	next	other	0
+NU2-01test	1253	Picture	25	24116078	0	1	20166	1	0	next	other	0
+NU2-01test	1255	Picture	40	24151411	0	1	27999	1	0	next	other	0
+NU2-01test	1255	Text Input	14	24179332	27921	0
+NU2-01test	1255	Response	0	24179332	27921	1
+NU2-01test	1256	Response	100	24180772	1362	1
+NU2-01test	1258	Picture	10	24209742	0	1	20166	1	0	next	other	0
+NU2-01test	1260	Picture	24	24245074	0	1	20166	1	0	next	other	0
+NU2-01test	1262	Picture	40	24280407	0	1	27832	1	0	next	other	0
+NU2-01test	1262	Text Input	12	24308130	27723	0
+NU2-01test	1262	Response	0	24308130	27723	1
+NU2-01test	1263	Response	100	24309410	1171	1
+NU2-01test	1265	Picture	9	24338572	0	1	20166	1	0	next	other	0
+NU2-01test	1267	Picture	36	24373904	0	1	20166	1	0	next	other	0
+NU2-01test	1269	Picture	75	24409236	0	1	20166	1	0	next	other	0
+NU2-01test	1270	Response	0	24451808	22240	1
+NU2-01test	1270	Response	0	24453088	23519	1
+NU2-01test	1271	Response	0	24458688	5286	1
+NU2-01test	1271	Response	0	24459808	6406	1
+NU2-01test	1272	Response	0	24461728	1660	1
+NU2-01test	1272	Response	100	24462688	2620	1
+NU2-01test	1274	Picture	11	24478067	0	1	20166	1	0	next	other	0
+NU2-01test	1276	Picture	27	24513399	0	1	20166	1	0	next	other	0
+NU2-01test	1278	Picture	64	24548732	0	1	20166	1	0	next	other	0
+NU2-01test	1279	Response	0	24599326	30262	1
+NU2-01test	1279	Response	0	24602846	33781	1
+NU2-01test	1280	Response	0	24603806	742	1
+NU2-01test	1280	Response	100	24604925	1862	1
+NU2-01test	1282	Picture	8	24620396	0	1	20166	1	0	next	other	0
+NU2-01test	1284	Picture	25	24655728	0	1	20166	1	0	next	other	0
+NU2-01test	1286	Picture	64	24691061	0	1	20166	1	0	next	other	0
+NU2-01test	1287	Response	0	24733884	22491	1
+NU2-01test	1287	Response	0	24736124	24730	1
+NU2-01test	1288	Response	0	24741404	5011	1
+NU2-01test	1288	Response	0	24742683	6291	1
+NU2-01test	1289	Response	0	24743963	1071	1
+NU2-01test	1289	Response	100	24745403	2511	1
+NU2-01test	1291	Picture	8	24760892	0	1	20166	1	0	next	other	0
+NU2-01test	1293	Picture	36	24796224	0	1	20166	1	0	next	other	0
+NU2-01test	1295	Picture	50	24831556	0	1	30499	1	0	next	other	0
+NU2-01test	1295	Text Input	5	24862042	30486	0
+NU2-01test	1295	Response	0	24862042	30486	1
+NU2-01test	1296	Response	100	24863162	1106	1
+NU2-01test	1298	Picture	12	24892388	0	1	20166	1	0	next	other	0
+NU2-01test	1300	Picture	35	24927720	0	1	20166	1	0	next	other	0
+NU2-01test	1302	Picture	73	24963052	0	1	20166	1	0	next	other	0
+NU2-01test	1303	Response	0	25120598	137214	1
+NU2-01test	1303	Response	0	25123158	139773	1
+NU2-01test	1304	Response	0	25129718	6337	1
+NU2-01test	1304	Response	0	25130358	6977	1
+NU2-01test	1305	Response	0	25147158	16611	1
+NU2-01test	1305	Response	0	25147797	17251	1
+NU2-01test	1306	Response	0	25172118	24071	1
+NU2-01test	1306	Response	100	25173237	25191	1
+NU2-01test	1308	Picture	10	25188712	0	1	20166	1	0	next	other	0
+NU2-01test	1310	Picture	25	25224044	0	1	20166	1	0	next	other	0
+NU2-01test	1312	Picture	40	25259376	0	1	30332	1	0	next	other	0
+NU2-01test	1312	Text Input	12	25289555	30179	0
+NU2-01test	1312	Response	0	25289555	30179	1
+NU2-01test	1313	Response	100	25291155	1447	1
+NU2-01test	1315	Picture	8	25320041	0	1	20166	1	0	next	other	0
+NU2-01test	1317	Picture	24	25355373	0	1	20166	1	0	next	other	0
+NU2-01test	1319	Picture	40	25390705	0	1	30999	1	0	next	other	0
+NU2-01test	1319	Text Input	10	25421553	30848	0
+NU2-01test	1319	Response	0	25421553	30848	1
+NU2-01test	1320	Response	100	25423313	1609	1
+NU2-01test	1322	Picture	11	25452037	0	1	20166	1	0	next	other	0
+NU2-01test	1324	Picture	24	25487369	0	1	20166	1	0	next	other	0
+NU2-01test	1326	Picture	40	25522701	0	1	27999	1	0	next	other	0
+NU2-01test	1326	Text Input	13	25550671	27970	0
+NU2-01test	1326	Response	0	25550671	27970	1
+NU2-01test	1327	Response	100	25551791	1091	1
+NU2-01test	1329	Picture	12	25581033	0	1	20166	1	0	next	other	0
+NU2-01test	1331	Picture	34	25616365	0	1	20166	1	0	next	other	0
+NU2-01test	1333	Picture	71	25651697	0	1	20166	1	0	next	other	0
+NU2-01test	1334	Response	0	25688110	16080	1
+NU2-01test	1334	Response	0	25690349	18319	1
+NU2-01test	1335	Response	0	25695629	5100	1
+NU2-01test	1335	Response	0	25696589	6060	1
+NU2-01test	1336	Response	0	25700589	3727	1
+NU2-01test	1336	Response	0	25701389	4526	1
+NU2-01test	1337	Response	0	25702669	973	1
+NU2-01test	1337	Response	0	25703629	1933	1
+NU2-01test	1338	Response	0	25708909	5047	1
+NU2-01test	1338	Response	0	25710189	6327	1
+NU2-01test	1339	Response	0	25711149	787	1
+NU2-01test	1339	Response	100	25712109	1747	1
+NU2-01test	1341	Picture	8	25727528	0	1	20166	1	0	next	other	0
+NU2-01test	1343	Picture	24	25762860	0	1	20166	1	0	next	other	0
+NU2-01test	1345	Picture	40	25798193	0	1	27499	1	0	next	other	0
+NU2-01test	1345	Text Input	10	25825547	27354	0
+NU2-01test	1345	Response	0	25825547	27354	1
+NU2-01test	1346	Response	100	25826987	1295	1
+NU2-01test	1348	Picture	9	25856024	0	1	20166	1	0	next	other	0
+NU2-01test	1350	Picture	26	25891356	0	1	20166	1	0	next	other	0
+NU2-01test	1352	Picture	40	25926689	0	1	39332	1	0	next	other	0
+NU2-01test	1352	Text Input	12	25965865	39176	0
+NU2-01test	1352	Response	0	25965865	39176	1
+NU2-01test	1353	Response	100	25967465	1444	1
+NU2-01test	1355	Picture	9	25996353	0	1	20166	1	0	next	other	0
+NU2-01test	1357	Picture	26	26031685	0	1	20166	1	0	next	other	0
+NU2-01test	1359	Picture	64	26067018	0	1	20166	1	0	next	other	0
+NU2-01test	1360	Response	0	26093864	6513	1
+NU2-01test	1360	Response	0	26096743	9393	1
+NU2-01test	1361	Response	0	26101543	4526	1
+NU2-01test	1361	Response	0	26102343	5326	1
+NU2-01test	1362	Response	0	26103623	1107	1
+NU2-01test	1362	Response	100	26105063	2546	1
+NU2-01test	1364	Picture	9	26120516	0	1	20166	1	0	next	other	0
+NU2-01test	1366	Picture	35	26155848	0	1	20166	1	0	next	other	0
+NU2-01test	1368	Picture	72	26191180	0	1	20166	1	0	next	other	0
+NU2-01test	1369	Response	0	26236901	25388	1
+NU2-01test	1369	Response	0	26239301	27788	1
+NU2-01test	1370	Response	0	26244740	5228	1
+NU2-01test	1370	Response	0	26246021	6509	1
+NU2-01test	1371	Response	0	26251141	4795	1
+NU2-01test	1371	Response	0	26252261	5915	1
+NU2-01test	1372	Response	0	26253861	1349	1
+NU2-01test	1372	Response	100	26255301	2789	1
+NU2-01test	1374	Picture	11	26270678	0	1	20166	1	0	next	other	0
+NU2-01test	1376	Picture	37	26306010	0	1	20166	1	0	next	other	0
+NU2-01test	1378	Picture	50	26341342	0	1	135162	1	0	next	other	0
+NU2-01test	1378	Text Input	9	26476417	135075	0
+NU2-01test	1378	Response	0	26476417	135075	1
+NU2-01test	1379	Response	100	26477857	1352	1
+NU2-01test	1381	Picture	10	26506837	0	1	20166	1	0	next	other	0
+NU2-01test	1383	Picture	36	26542169	0	1	20166	1	0	next	other	0
+NU2-01test	1385	Picture	75	26577502	0	1	20166	1	0	next	other	0
+NU2-01test	1386	Response	0	26617376	19541	1
+NU2-01test	1386	Response	0	26621375	23541	1
+NU2-01test	1387	Response	0	26623935	2268	1
+NU2-01test	1387	Response	100	26625375	3708	1
+NU2-01test	1389	Picture	12	26640833	0	1	20166	1	0	next	other	0
+NU2-01test	1391	Picture	26	26676165	0	1	20166	1	0	next	other	0
+NU2-01test	1393	Picture	64	26711497	0	1	20166	1	0	next	other	0
+NU2-01test	1394	Response	0	26801853	70023	1
+NU2-01test	1394	Response	0	26805852	74022	1
+NU2-01test	1395	Response	0	26811612	5451	1
+NU2-01test	1395	Response	0	26812252	6091	1
+NU2-01test	1396	Response	0	26814332	1838	1
+NU2-01test	1396	Response	0	26814972	2478	1
+NU2-01test	1397	Response	0	26816412	1251	1
+NU2-01test	1397	Response	100	26817852	2691	1
+NU2-01test	1399	Picture	9	26833327	0	1	20166	1	0	next	other	0
+NU2-01test	1401	Picture	34	26868659	0	1	20166	1	0	next	other	0
+NU2-01test	1403	Picture	50	26903991	0	1	37999	1	0	next	other	0
+NU2-01test	1403	Text Input	7	26941850	37859	0
+NU2-01test	1403	Response	0	26941850	37859	1
+NU2-01test	1404	Response	100	26942970	980	1
+NU2-01test	1406	Picture	12	26972323	0	1	20166	1	0	next	other	0
+NU2-01test	1408	Picture	36	27007655	0	1	20166	1	0	next	other	0
+NU2-01test	1410	Picture	72	27042987	0	1	20166	1	0	next	other	0
+NU2-01test	1411	Response	0	27069849	6529	1
+NU2-01test	1411	Response	0	27072248	8929	1
+NU2-01test	1412	Response	0	27075608	3122	1
+NU2-01test	1412	Response	0	27076568	4082	1
+NU2-01test	1413	Response	0	27078488	1669	1
+NU2-01test	1413	Response	100	27079768	2949	1
+NU2-01test	1415	Picture	12	27095152	0	1	20166	1	0	next	other	0
+NU2-01test	1417	Picture	34	27130484	0	1	20166	1	0	next	other	0
+NU2-01test	1419	Picture	72	27165816	0	1	20166	1	0	next	other	0
+NU2-01test	1420	Response	0	27188567	2418	1
+NU2-01test	1420	Response	100	27189847	3697	1
+NU2-01test	1422	Picture	8	27205315	0	1	20166	1	0	next	other	0
+NU2-01test	1424	Picture	27	27240648	0	1	20166	1	0	next	other	0
+NU2-01test	1426	Picture	65	27275980	0	1	20166	1	0	next	other	0
+NU2-01test	1427	Response	0	27337845	41532	1
+NU2-01test	1427	Response	0	27340564	44252	1
+NU2-01test	1428	Response	0	27352564	11753	1
+NU2-01test	1428	Response	100	27354484	13673	1
+NU2-01test	1431	Picture	13	27970125	0	1	20166	1	0	next	other	0
+NU2-01test	1433	Picture	25	28005457	0	1	20166	1	0	next	other	0
+NU2-01test	1435	Picture	40	28040789	0	1	53998	1	0	next	other	0
+NU2-01test	1435	Text Input	15	28094633	53844	0
+NU2-01test	1435	Response	0	28094633	53844	1
+NU2-01test	1436	Response	100	28095273	485	1
+NU2-01test	1438	Picture	11	28125120	0	1	20166	1	0	next	other	0
+NU2-01test	1440	Picture	25	28160452	0	1	20166	1	0	next	other	0
+NU2-01test	1442	Picture	64	28195784	0	1	20166	1	0	next	other	0
+NU2-01test	1443	Response	0	28221031	4914	1
+NU2-01test	1443	Response	0	28228231	12114	1
+NU2-01test	1444	Response	0	28230151	1701	1
+NU2-01test	1444	Response	100	28230791	2341	1
+NU2-01test	1446	Picture	8	28246283	0	1	20166	1	0	next	other	0
+NU2-01test	1448	Picture	35	28281615	0	1	20166	1	0	next	other	0
+NU2-01test	1450	Picture	74	28316947	0	1	20166	1	0	next	other	0
+NU2-01test	1451	Response	0	28367749	30469	1
+NU2-01test	1451	Response	0	28371109	33829	1
+NU2-01test	1452	Response	0	28374629	3350	1
+NU2-01test	1452	Response	0	28376389	5110	1
+NU2-01test	1453	Response	0	28379109	2497	1
+NU2-01test	1453	Response	0	28380868	4256	1
+NU2-01test	1454	Response	0	28384068	2956	1
+NU2-01test	1454	Response	100	28385668	4556	1
+NU2-01test	1456	Picture	8	28401111	0	1	20166	1	0	next	other	0
+NU2-01test	1458	Picture	34	28436443	0	1	20166	1	0	next	other	0
+NU2-01test	1460	Picture	50	28471776	0	1	26332	1	0	next	other	0
+NU2-01test	1460	Text Input	6	28497986	26211	0
+NU2-01test	1460	Response	0	28497986	26211	1
+NU2-01test	1461	Response	100	28499266	1158	1
+NU2-01test	1463	Picture	8	28528441	0	1	20166	1	0	next	other	0
+NU2-01test	1465	Picture	37	28563773	0	1	20166	1	0	next	other	0
+NU2-01test	1467	Picture	73	28599105	0	1	20166	1	0	next	other	0
+NU2-01test	1468	Response	0	28622625	3187	1
+NU2-01test	1468	Response	0	28625985	6547	1
+NU2-01test	1469	Response	0	28627745	1474	1
+NU2-01test	1469	Response	100	28629345	3074	1
+NU2-01test	1471	Picture	9	28644770	0	1	20166	1	0	next	other	0
+NU2-01test	1473	Picture	27	28680102	0	1	20166	1	0	next	other	0
+NU2-01test	1475	Picture	40	28715435	0	1	51332	1	0	next	other	0
+NU2-01test	1475	Text Input	12	28766623	51188	0
+NU2-01test	1475	Response	0	28766623	51188	1
+NU2-01test	1476	Response	100	28768542	1776	1
+NU2-01test	1478	Picture	10	28797099	0	1	20166	1	0	next	other	0
+NU2-01test	1480	Picture	37	28832431	0	1	20166	1	0	next	other	0
+NU2-01test	1482	Picture	50	28867763	0	1	30166	1	0	next	other	0
+NU2-01test	1482	Text Input	6	28897821	30058	0
+NU2-01test	1482	Response	0	28897821	30058	1
+NU2-01test	1483	Response	100	28899741	1811	1
+NU2-01test	1485	Picture	9	28928261	0	1	20166	1	0	next	other	0
+NU2-01test	1487	Picture	36	28963594	0	1	20166	1	0	next	other	0
+NU2-01test	1489	Picture	50	28998926	0	1	79498	1	0	next	other	0
+NU2-01test	1489	Text Input	6	29078298	79372	0
+NU2-01test	1489	Response	0	29078298	79372	1
+NU2-01test	1490	Response	100	29079898	1475	1
+NU2-01test	1492	Picture	10	29108756	0	1	20166	1	0	next	other	0
+NU2-01test	1494	Picture	27	29144088	0	1	20166	1	0	next	other	0
+NU2-01test	1496	Picture	61	29179420	0	1	20166	1	0	next	other	0
+NU2-01test	1497	Response	0	29228696	28943	1
+NU2-01test	1497	Response	0	29232696	32943	1
+NU2-01test	1498	Response	0	29234456	1537	1
+NU2-01test	1498	Response	100	29236375	3457	1
+NU2-01test	1500	Picture	10	29251751	0	1	20166	1	0	next	other	0
+NU2-01test	1502	Picture	34	29287084	0	1	20166	1	0	next	other	0
+NU2-01test	1504	Picture	50	29322416	0	1	25833	1	0	next	other	0
+NU2-01test	1504	Text Input	8	29348214	25798	0
+NU2-01test	1504	Response	0	29348214	25798	1
+NU2-01test	1505	Response	100	29349494	1246	1
+NU2-01test	1507	Picture	9	29378581	0	1	20166	1	0	next	other	0
+NU2-01test	1509	Picture	36	29413913	0	1	20166	1	0	next	other	0
+NU2-01test	1511	Picture	74	29449245	0	1	20166	1	0	next	other	0
+NU2-01test	1512	Response	0	29496372	26794	1
+NU2-01test	1512	Response	0	29499732	30154	1
+NU2-01test	1513	Response	0	29516852	16941	1
+NU2-01test	1513	Response	0	29518131	18221	1
+NU2-01test	1514	Response	0	29519891	1481	1
+NU2-01test	1514	Response	100	29521491	3081	1
+NU2-01test	1516	Picture	10	29536909	0	1	20166	1	0	next	other	0
+NU2-01test	1518	Picture	35	29572241	0	1	20166	1	0	next	other	0
+NU2-01test	1520	Picture	50	29607573	0	1	98330	1	0	next	other	0
+NU2-01test	1520	Text Input	7	29705808	98235	0
+NU2-01test	1520	Response	0	29705808	98235	1
+NU2-01test	1521	Response	100	29707408	1505	1
+NU2-01test	1523	Picture	9	29736236	0	1	20166	1	0	next	other	0
+NU2-01test	1525	Picture	25	29771568	0	1	20166	1	0	next	other	0
+NU2-01test	1527	Picture	40	29806901	0	1	28499	1	0	next	other	0
+NU2-01test	1527	Text Input	11	29835246	28346	0
+NU2-01test	1527	Response	0	29835246	28346	1
+NU2-01test	1528	Response	100	29836686	1287	1
+NU2-01test	1530	Picture	9	29865732	0	1	20166	1	0	next	other	0
+NU2-01test	1532	Picture	36	29901064	0	1	20166	1	0	next	other	0
+NU2-01test	1534	Picture	50	29936397	0	1	42499	1	0	next	other	0
+NU2-01test	1534	Text Input	6	29978764	42368	0
+NU2-01test	1534	Response	0	29978764	42368	1
+NU2-01test	1535	Response	100	29980684	1789	1
+NU2-01test	1537	Picture	8	30009228	0	1	20166	1	0	next	other	0
+NU2-01test	1539	Picture	25	30044560	0	1	20166	1	0	next	other	0
+NU2-01test	1541	Picture	63	30079892	0	1	20166	1	0	next	other	0
+NU2-01test	1542	Response	0	30102283	2058	1
+NU2-01test	1542	Response	100	30103722	3498	1
+NU2-01test	1544	Picture	8	30119058	0	1	20166	1	0	next	other	0
+NU2-01test	1546	Picture	24	30154390	0	1	20166	1	0	next	other	0
+NU2-01test	1548	Picture	62	30189722	0	1	20166	1	0	next	other	0
+NU2-01test	1549	Response	0	30212361	2306	1
+NU2-01test	1549	Response	100	30213801	3746	1
+NU2-01test	1551	Picture	12	30229221	0	1	20166	1	0	next	other	0
+NU2-01test	1553	Picture	34	30264553	0	1	20166	1	0	next	other	0
+NU2-01test	1555	Picture	73	30299885	0	1	20166	1	0	next	other	0
+NU2-01test	1556	Response	0	30323400	3182	1
+NU2-01test	1556	Response	0	30325479	5261	1
+NU2-01test	1557	Response	0	30327719	2001	1
+NU2-01test	1557	Response	0	30328359	2641	1
+NU2-01test	1558	Response	0	30332999	4448	1
+NU2-01test	1558	Response	0	30333639	5088	1
+NU2-01test	1559	Response	0	30335079	1195	1
+NU2-01test	1559	Response	100	30336999	3115	1
+NU2-01test	1561	Picture	10	30352384	0	1	20166	1	0	next	other	0
+NU2-01test	1563	Picture	34	30387716	0	1	20166	1	0	next	other	0
+NU2-01test	1565	Picture	50	30423048	0	1	25166	1	0	next	other	0
+NU2-01test	1565	Text Input	8	30448197	25149	0
+NU2-01test	1565	Response	0	30448197	25149	1
+NU2-01test	1566	Response	100	30449797	1583	1
+NU2-01test	1568	Picture	12	30478546	0	1	20166	1	0	next	other	0
+NU2-01test	1570	Picture	35	30513879	0	1	20166	1	0	next	other	0
+NU2-01test	1572	Picture	71	30549211	0	1	20166	1	0	next	other	0
+NU2-01test	1573	Response	0	30585476	15932	1
+NU2-01test	1573	Response	0	30588995	19452	1
+NU2-01test	1574	Response	0	30595875	6665	1
+NU2-01test	1574	Response	100	30597635	8425	1
+NU2-01test	1576	Picture	11	30613042	0	1	20166	1	0	next	other	0
+NU2-01test	1578	Picture	34	30648374	0	1	20166	1	0	next	other	0
+NU2-01test	1580	Picture	73	30683707	0	1	20166	1	0	next	other	0
+NU2-01test	1581	Response	0	30706594	2554	1
+NU2-01test	1581	Response	0	30713313	9274	1
+NU2-01test	1582	Response	0	30717793	4254	1
+NU2-01test	1582	Response	0	30718273	4734	1
+NU2-01test	1583	Response	0	30718753	214	1
+NU2-01test	1583	Response	100	30720193	1654	1
+NU2-01test	1585	Picture	9	30735538	0	1	20166	1	0	next	other	0
+NU2-01test	1587	Picture	25	30770870	0	1	20166	1	0	next	other	0
+NU2-01test	1589	Picture	61	30806203	0	1	20166	1	0	next	other	0
+NU2-01test	1590	Response	0	30830432	3896	1
+NU2-01test	1590	Response	0	30836511	9976	1
+NU2-01test	1591	Response	0	30837471	769	1
+NU2-01test	1591	Response	100	30839711	3010	1
+NU2-01test	1593	Picture	End of exepriment	30840035	0	1	104503	1	0	next	other	0
+
+The following output port codes were not sent because of a conflict on the port.
+Port	Code	Time(ms)
+1	255	3.08399e+006

@@ -1,0 +1,111 @@
+Scenario - 
+Logfile written - 04/01/2016 15:06:14
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+NU2-07test	1	Picture	Instructions	167	0	1	20333	1	0	next	other	0
+NU2-07test	1	Response	7	20342	20176	0
+NU2-07test	2	Picture	Instructions	20499	0	1	6167	1	0	next	other	0
+NU2-07test	2	Response	7	26582	6083	0
+NU2-07test	3	Picture	Experiment starts	26666	0	1	30166	1	0	next	other	0
+NU2-07test	3	Response	7	53782	27116	0
+NU2-07test	5	Picture	10	71998	0	1	20166	1	0	next	other	0
+NU2-07test	7	Picture	36	107331	0	1	20166	1	0	next	other	0
+NU2-07test	9	Picture	75	142663	0	1	20166	1	0	next	other	0
+NU2-07test	10	Response	1	247861	84865	0
+NU2-07test	10	Response	2	252021	89025	0
+NU2-07test	11	Response	3	252981	653	0
+NU2-07test	11	Response	4	265620	13293	1
+NU2-07test	12	Response	3	278260	12433	0
+NU2-07test	12	Response	4	279220	13393	0
+NU2-07test	13	Response	1	291860	12367	0
+NU2-07test	13	Response	2	292500	13007	0
+NU2-07test	14	Response	7	312820	19994	0
+NU2-07test	14	Response	5	326420	33593	0
+NU2-07test	14	Response	6	327380	34553	1
+NU2-07test	15	Picture	Navigation blank	327659	0	1	10166	1	0	next	other	0
+NU2-07test	18	Picture	12	383158	0	1	20166	1	0	next	other	0
+NU2-07test	20	Picture	36	418491	0	1	20166	1	0	next	other	0
+NU2-07test	22	Picture	72	453823	0	1	20166	1	0	next	other	0
+NU2-07test	23	Response	3	498580	24424	0
+NU2-07test	23	Response	4	505779	31623	0
+NU2-07test	24	Response	1	512019	6031	0
+NU2-07test	24	Response	2	512659	6670	0
+NU2-07test	25	Response	3	523059	10070	0
+NU2-07test	25	Response	4	524179	11190	1
+NU2-07test	26	Response	3	528499	4011	0
+NU2-07test	26	Response	4	529139	4651	1
+NU2-07test	27	Response	3	553619	24298	0
+NU2-07test	27	Response	4	554739	25417	1
+NU2-07test	28	Response	1	558899	3911	0
+NU2-07test	28	Response	2	559539	4551	0
+NU2-07test	29	Response	1	566739	6918	0
+NU2-07test	29	Response	2	568819	8998	1
+NU2-07test	30	Response	1	587699	18711	0
+NU2-07test	30	Response	2	592819	23831	0
+NU2-07test	31	Response	3	653779	60792	0
+NU2-07test	31	Response	4	655218	62231	1
+NU2-07test	32	Response	3	672018	16533	0
+NU2-07test	32	Response	4	673138	17653	0
+NU2-07test	33	Response	7	681298	7980	0
+NU2-07test	33	Response	5	694098	20779	0
+NU2-07test	33	Response	6	694738	21420	0
+NU2-07test	34	Picture	Navigation blank	694985	0	1	10166	1	0	next	other	0
+NU2-07test	37	Picture	8	750483	0	1	20166	1	0	next	other	0
+NU2-07test	39	Picture	36	785816	0	1	20166	1	0	next	other	0
+NU2-07test	41	Picture	71	821149	0	1	20166	1	0	next	other	0
+NU2-07test	42	Response	1	860337	18856	0
+NU2-07test	42	Response	2	867057	25576	0
+NU2-07test	43	Response	1	871697	4383	0
+NU2-07test	43	Response	2	872497	5183	0
+NU2-07test	44	Response	1	876817	4003	0
+NU2-07test	44	Response	2	877617	4803	0
+NU2-07test	45	Response	5	893617	15803	0
+NU2-07test	45	Response	6	894737	16923	1
+NU2-07test	46	Picture	Navigation blank	894980	0	1	10166	1	0	next	other	0
+NU2-07test	49	Picture	9	950479	0	1	20166	1	0	next	other	0
+NU2-07test	51	Picture	26	985812	0	1	20166	1	0	next	other	0
+NU2-07test	53	Picture	40	1021144	0	1	37999	1	0	next	other	0
+NU2-07test	53	Text Input	12	1059056	37912	0
+NU2-07test	55	Picture	Feedback calculation	1074310	0	1	30166	1	0	30000	other	0
+NU2-07test	57	Picture	10	1119809	0	1	20166	1	0	next	other	0
+NU2-07test	59	Picture	34	1155141	0	1	20166	1	0	next	other	0
+NU2-07test	61	Picture	50	1190474	0	1	28499	1	0	next	other	0
+NU2-07test	61	Text Input	8	1218895	28421	0
+NU2-07test	63	Picture	Feedback calculation	1234139	0	1	30166	1	0	30000	other	0
+NU2-07test	65	Picture	13	1279638	0	1	20166	1	0	next	other	0
+NU2-07test	67	Picture	27	1314971	0	1	20166	1	0	next	other	0
+NU2-07test	69	Picture	40	1350304	0	1	32999	1	0	next	other	0
+NU2-07test	69	Text Input	16	1383214	32910	0
+NU2-07test	71	Picture	Feedback calculation	1398469	0	1	30166	1	0	30000	other	0
+NU2-07test	73	Picture	11	1443968	0	1	20166	1	0	next	other	0
+NU2-07test	75	Picture	37	1479301	0	1	20166	1	0	next	other	0
+NU2-07test	77	Picture	50	1514633	0	1	87498	1	0	next	other	0
+NU2-07test	77	Text Input	7	1602093	87460	0
+NU2-07test	79	Picture	Feedback calculation	1617298	0	1	30166	1	0	30000	other	0
+NU2-07test	81	Picture	8	1662797	0	1	20166	1	0	next	other	0
+NU2-07test	83	Picture	27	1698129	0	1	20166	1	0	next	other	0
+NU2-07test	85	Picture	64	1733462	0	1	20166	1	0	next	other	0
+NU2-07test	86	Response	3	1761292	7498	0
+NU2-07test	86	Response	4	1767852	14057	0
+NU2-07test	87	Response	5	1788652	20524	0
+NU2-07test	87	Response	6	1789452	21324	0
+NU2-07test	88	Picture	Navigation blank	1789627	0	1	10166	1	0	next	other	0
+NU2-07test	91	Picture	11	1845126	0	1	20166	1	0	next	other	0
+NU2-07test	93	Picture	27	1880459	0	1	20166	1	0	next	other	0
+NU2-07test	95	Picture	40	1915791	0	1	85665	1	0	next	other	0
+NU2-07test	95	Text Input	14	2001290	85499	0
+NU2-07test	97	Picture	Feedback calculation	2016622	0	1	30166	1	0	30000	other	0
+NU2-07test	99	Picture	8	2062121	0	1	20166	1	0	next	other	0
+NU2-07test	101	Picture	26	2097454	0	1	20166	1	0	next	other	0
+NU2-07test	103	Picture	65	2132786	0	1	20166	1	0	next	other	0
+NU2-07test	104	Response	1	2168650	15530	0
+NU2-07test	104	Response	2	2172649	19530	1
+NU2-07test	105	Response	3	2174569	1617	0
+NU2-07test	105	Response	4	2180809	7857	1
+NU2-07test	106	Response	3	2186729	5611	0
+NU2-07test	106	Response	4	2195209	14090	0
+NU2-07test	107	Response	5	2214729	19277	0
+NU2-07test	107	Response	6	2215529	20077	0
+NU2-07test	108	Picture	Navigation blank	2215785	0	1	10166	1	0	next	other	0
+NU2-07test	110	Picture	End of exepriment	2256117	0	1	103784	1	0	next	other	0

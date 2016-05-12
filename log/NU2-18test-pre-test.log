@@ -1,0 +1,137 @@
+Scenario - 
+Logfile written - 04/12/2016 11:03:33
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+NU2-18test	1	Picture	Instructions	166	0	1	80498	1	0	next	other	0
+NU2-18test	1	Response	7	80539	80372	0
+NU2-18test	2	Picture	Instructions	80665	0	1	78831	1	0	next	other	0
+NU2-18test	2	Response	7	159417	78753	0
+NU2-18test	3	Picture	Experiment starts	159496	0	1	30166	1	0	next	other	0
+NU2-18test	5	Picture	11	204828	0	1	20166	1	0	next	other	0
+NU2-18test	7	Picture	27	240161	0	1	20166	1	0	next	other	0
+NU2-18test	9	Picture	40	275493	0	1	336658	1	0	next	other	0
+NU2-18test	9	Response	7	594293	318800	0
+NU2-18test	9	Text Input	14 	612053	336560	0
+NU2-18test	9	Response	5	612053	336560	0
+NU2-18test	10	Response	6	613813	1661	0
+NU2-18test	11	Picture	Feedback calculation	627318	0	1	30166	1	0	30000	other	0
+NU2-18test	13	Picture	11	672816	0	1	20166	1	0	next	other	0
+NU2-18test	15	Picture	25	708149	0	1	20166	1	0	next	other	0
+NU2-18test	17	Picture	40	743481	0	1	39999	1	0	next	other	0
+NU2-18test	17	Text Input	13	783411	39930	0
+NU2-18test	17	Response	5	783411	39930	0
+NU2-18test	18	Response	6	784051	571	0
+NU2-18test	19	Picture	Feedback calculation	798647	0	1	30166	1	0	30000	other	0
+NU2-18test	21	Picture	10	844146	0	1	20166	1	0	next	other	0
+NU2-18test	23	Picture	26	879478	0	1	20166	1	0	next	other	0
+NU2-18test	25	Picture	40	914810	0	1	39332	1	0	next	other	0
+NU2-18test	25	Text Input	13	954130	39319	0
+NU2-18test	25	Response	5	954130	39319	0
+NU2-18test	26	Response	6	954610	467	0
+NU2-18test	27	Picture	Feedback calculation	969309	0	1	30166	1	0	30000	other	0
+NU2-18test	29	Picture	12	1014808	0	1	20166	1	0	next	other	0
+NU2-18test	31	Picture	36	1050140	0	1	20166	1	0	next	other	0
+NU2-18test	33	Picture	72	1085473	0	1	20166	1	0	next	other	0
+NU2-18test	34	Response	1	1145488	39683	0
+NU2-18test	34	Response	2	1146448	40642	0
+NU2-18test	35	Response	3	1156208	9570	0
+NU2-18test	35	Response	4	1157328	10690	0
+NU2-18test	36	Response	1	1161168	3530	0
+NU2-18test	36	Response	2	1162288	4650	1
+NU2-18test	37	Response	1	1165168	2697	0
+NU2-18test	37	Response	2	1166288	3817	1
+NU2-18test	38	Response	1	1174128	7657	0
+NU2-18test	38	Response	2	1175248	8777	1
+NU2-18test	39	Response	3	1196368	20897	0
+NU2-18test	39	Response	4	1197488	22017	0
+NU2-18test	40	Response	1	1200848	3044	0
+NU2-18test	40	Response	2	1201487	3684	1
+NU2-18test	41	Response	1	1205168	3364	0
+NU2-18test	41	Response	2	1205807	4004	0
+NU2-18test	42	Response	1	1233007	26871	0
+NU2-18test	42	Response	2	1234127	27991	0
+NU2-18test	43	Response	1	1235087	785	0
+NU2-18test	43	Response	2	1235887	1584	1
+NU2-18test	44	Response	1	1236527	391	0
+NU2-18test	44	Response	2	1237327	1191	1
+NU2-18test	45	Response	1	1237647	11	0
+NU2-18test	45	Response	2	1243087	5451	0
+NU2-18test	46	Response	3	1259247	15945	0
+NU2-18test	46	Response	4	1260047	16745	1
+NU2-18test	47	Response	3	1261007	705	0
+NU2-18test	47	Response	4	1261647	1345	0
+NU2-18test	48	Response	3	1262447	478	0
+NU2-18test	48	Response	4	1263087	1118	0
+NU2-18test	49	Response	3	1264047	745	0
+NU2-18test	49	Response	4	1264527	1225	1
+NU2-18test	50	Response	3	1265167	365	0
+NU2-18test	50	Response	4	1265967	1165	0
+NU2-18test	51	Response	3	1276207	10072	0
+NU2-18test	51	Response	4	1276847	10712	0
+NU2-18test	52	Response	3	1277807	672	0
+NU2-18test	52	Response	4	1285966	8832	1
+NU2-18test	53	Response	3	1287247	1112	0
+NU2-18test	53	Response	4	1287887	1752	1
+NU2-18test	54	Response	3	1289007	872	0
+NU2-18test	54	Response	4	1289487	1352	1
+NU2-18test	55	Response	3	1290607	806	0
+NU2-18test	55	Response	4	1290927	1125	1
+NU2-18test	56	Response	3	1304207	13072	0
+NU2-18test	56	Response	4	1304686	13552	1
+NU2-18test	57	Response	5	1322927	17959	0
+NU2-18test	57	Response	6	1323246	18279	1
+NU2-18test	58	Picture	Navigation blank	1323467	0	1	10166	1	0	next	other	0
+NU2-18test	61	Picture	10	1378966	0	1	20166	1	0	next	other	0
+NU2-18test	63	Picture	34	1414298	0	1	20166	1	0	next	other	0
+NU2-18test	65	Picture	50	1449630	0	1	36666	1	0	next	other	0
+NU2-18test	65	Text Input	8	1486125	36494	0
+NU2-18test	65	Response	5	1486125	36494	0
+NU2-18test	66	Response	6	1486605	308	0
+NU2-18test	67	Picture	Feedback calculation	1501463	0	1	30166	1	0	30000	other	0
+NU2-18test	69	Picture	9	1546961	0	1	20166	1	0	next	other	0
+NU2-18test	71	Picture	26	1582294	0	1	20166	1	0	next	other	0
+NU2-18test	73	Picture	40	1617626	0	1	83665	1	0	next	other	0
+NU2-18test	73	Text Input	12	1701163	83537	0
+NU2-18test	73	Response	5	1701163	83537	0
+NU2-18test	74	Response	6	1701643	352	0
+NU2-18test	75	Picture	Feedback calculation	1716457	0	1	30166	1	0	30000	other	0
+NU2-18test	77	Picture	9	1761956	0	1	20166	1	0	next	other	0
+NU2-18test	79	Picture	36	1797289	0	1	20166	1	0	next	other	0
+NU2-18test	81	Picture	50	1832621	0	1	30666	1	0	next	other	0
+NU2-18test	81	Text Input	6	1863241	30620	0
+NU2-18test	81	Response	5	1863241	30620	0
+NU2-18test	82	Response	6	1863881	595	0
+NU2-18test	83	Picture	Feedback calculation	1878453	0	1	30166	1	0	30000	other	0
+NU2-18test	85	Picture	9	1923952	0	1	20166	1	0	next	other	0
+NU2-18test	87	Picture	26	1959285	0	1	20166	1	0	next	other	0
+NU2-18test	89	Picture	62	1994617	0	1	20166	1	0	next	other	0
+NU2-18test	90	Response	1	2143719	128770	0
+NU2-18test	90	Response	2	2144519	129569	1
+NU2-18test	91	Response	1	2151559	6779	0
+NU2-18test	91	Response	2	2152199	7419	0
+NU2-18test	92	Response	1	2161959	9513	0
+NU2-18test	92	Response	2	2162599	10152	1
+NU2-18test	93	Response	5	2184999	22220	0
+NU2-18test	93	Response	6	2185479	22699	0
+NU2-18test	94	Picture	Navigation blank	2185779	0	1	10166	1	0	next	other	0
+NU2-18test	97	Picture	13	2241278	0	1	20166	1	0	next	other	0
+NU2-18test	99	Picture	27	2276610	0	1	20166	1	0	next	other	0
+NU2-18test	101	Picture	40	2311942	0	1	36666	1	0	next	other	0
+NU2-18test	101	Text Input	16	2348517	36575	0
+NU2-18test	101	Response	5	2348517	36575	0
+NU2-18test	102	Response	6	2349157	549	0
+NU2-18test	103	Picture	Feedback calculation	2363774	0	1	30166	1	0	30000	other	0
+NU2-18test	105	Picture	10	2409273	0	1	20166	1	0	next	other	0
+NU2-18test	107	Picture	24	2444606	0	1	20166	1	0	next	other	0
+NU2-18test	109	Picture	63	2479938	0	1	20166	1	0	next	other	0
+NU2-18test	110	Response	3	2506916	6645	0
+NU2-18test	110	Response	4	2508996	8725	1
+NU2-18test	111	Response	3	2510276	1005	0
+NU2-18test	111	Response	4	2511716	2445	0
+NU2-18test	112	Response	3	2515076	3138	0
+NU2-18test	112	Response	4	2516836	4898	1
+NU2-18test	113	Response	5	2531556	14452	0
+NU2-18test	113	Response	6	2532035	14931	1
+NU2-18test	114	Picture	Navigation blank	2532270	0	1	10166	1	0	next	other	0
+NU2-18test	116	Picture	End of exepriment	2572603	0	1	108445	1	0	next	other	0
