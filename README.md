@@ -19,8 +19,6 @@ and correct answer user input, then result if it was correct or not. By calculat
 it is obvious that correct and entered numbers has to the same, but in the navigation
 it is considered as correct answer with 10% error.
 
-Local wiki <https://gitlab.com/neurolab/numberlines-2/wikis/home>
-
 Numberlines 2 experiment
 ========================
 
@@ -78,11 +76,3 @@ It is handy to have measured subjects named the most usefull was due to anonymiz
 - its personal number in project
 
 E.g., <b>B64-02172016-RM-02</b> (bachelor project, 64 channels EEG, 2nd of January 2016, right handed male, and it was second measured subject), <b>D32-18122015-LF-11</b> (doctoral project with 32 channels EEG, measured last year, it was left handed woman and it was 11th subject in the study)
-
-Acknowledges
-============
-This experiment is strictly internal and it is forbidden to be unauthorized used or modified without author approaval <michtesar@gmail.com>.
-<br>
-Most part of code is proprietary and comes from original experiment written by Michal Vavrecka.
-<br><br>
-This code was written for bachelor thesis of Petra Janickova in South Bohemia university.
